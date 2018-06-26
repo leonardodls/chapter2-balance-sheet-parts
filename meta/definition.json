@@ -131,7 +131,7 @@
     },
     "default": [
       {
-        "name": "The Balance Sheet",
+        "name": "Introduction",
         "item-type": "folder",
         "item-code": "LO0_Introduction",
         "sub-type": "default",
