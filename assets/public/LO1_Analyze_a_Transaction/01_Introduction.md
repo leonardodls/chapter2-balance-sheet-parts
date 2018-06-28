@@ -6,6 +6,11 @@ Transactions affect what the company has (assets), owes (liabilities), and/or it
 
 Transaction Any event that affects the financial position of the business and can be measured.
 
+```
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-dev-482"}}} 
+```
+
 ## Financing Activities for a Business
 
 When a business starts operations, one of the first things it must do is secure financing to purchase the supplies, inventory, and equipment necessary to run its day-to-day operations.
