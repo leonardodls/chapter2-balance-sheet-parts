@@ -174,7 +174,7 @@
           {
             "name": "Transaction: Issue Stock to Stockholders",
             "item-type": "resource",
-            "resource": "RE_CH_2_SEC_1_1",
+            "resource": "RE_CH_2_SEC_1_2",
             "item-code": "LO1_Analyze_a_Transaction/Transaction_Issue_Stock_to_Stockholders",
             "tracking": true,
             "attribs": {
@@ -187,7 +187,7 @@
           {
             "name": "Transaction: Obtain Loan from Bank",
             "item-type": "resource",
-            "resource": "RE_CH_2_SEC_1_1",
+            "resource": "RE_CH_2_SEC_1_3",
             "item-code": "LO1_Analyze_a_Transaction/Transaction_Obtain_Loan_from_Bank",
             "tracking": true,
             "attribs": {
@@ -200,7 +200,7 @@
           {
             "name": "Transaction: Purchase Equipment with Cash",
             "item-type": "resource",
-            "resource": "RE_CH_2_SEC_1_1",
+            "resource": "RE_CH_2_SEC_1_4",
             "item-code": "LO1_Analyze_a_Transaction/Transaction_Purchase_Equipment_with_Cash",
             "tracking": true,
             "attribs": {
@@ -213,7 +213,7 @@
           {
             "name": "Transaction: Development of a Company Logo with Cash",
             "item-type": "resource",
-            "resource": "RE_CH_2_SEC_1_1",
+            "resource": "RE_CH_2_SEC_1_5",
             "item-code": "LO1_Analyze_a_Transaction/Transaction_Development_of_a_Company_Logo_with_Cash",
             "tracking": true,
             "attribs": {
@@ -226,7 +226,7 @@
           {
             "name": "Transaction: Purchase Furniture on Account",
             "item-type": "resource",
-            "resource": "RE_CH_2_SEC_1_1",
+            "resource": "RE_CH_2_SEC_1_6",
             "item-code": "LO1_Analyze_a_Transaction/Transaction_Purchase_Furniture_on_Account",
             "tracking": true,
             "attribs": {
@@ -239,7 +239,7 @@
           {
             "name": "Assessment",
             "item-type": "resource",
-            "resource": "RE_CH_2_SEC_1_1",
+            "resource": "RE_CH_2_SEC_1_7",
             "item-code": "LO1_Analyze_a_Transaction/Assessment",
             "tracking": true,
             "attribs": {
@@ -336,6 +336,72 @@
         ],
         "md": {
           "url": "LO1_Analyze_a_Transaction/01_Introduction.md"
+        },
+        "description": "",
+        "learning-objectives": ["Analyze a Transaction"]
+      },
+      "RE_CH_2_SEC_1_2": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "LO1_Analyze_a_Transaction/02_Transaction_Issue_Stock_to_Stockholders.md"
+        },
+        "description": "",
+        "learning-objectives": ["Analyze a Transaction"]
+      },
+      "RE_CH_2_SEC_1_3": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "LO1_Analyze_a_Transaction/03_Transaction_Obtain_Loan_from_Bank.md"
+        },
+        "description": "",
+        "learning-objectives": ["Analyze a Transaction"]
+      },
+      "RE_CH_2_SEC_1_4": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "LO1_Analyze_a_Transaction/04_Transaction_Purchase_Equipment_with_Cash.md"
+        },
+        "description": "",
+        "learning-objectives": ["Analyze a Transaction"]
+      },
+      "RE_CH_2_SEC_1_5": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "LO1_Analyze_a_Transaction/05_Transaction_Development_of_a_Company_Logo_with_Cash.md"
+        },
+        "description": "",
+        "learning-objectives": ["Analyze a Transaction"]
+      },
+      "RE_CH_2_SEC_1_6": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "LO1_Analyze_a_Transaction/06_Transaction_Purchase_Furniture_on_Account.md"
+        },
+        "description": "",
+        "learning-objectives": ["Analyze a Transaction"]
+      },
+      "RE_CH_2_SEC_1_7": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "LO1_Analyze_a_Transaction/07_Assessment.md"
         },
         "description": "",
         "learning-objectives": ["Analyze a Transaction"]
