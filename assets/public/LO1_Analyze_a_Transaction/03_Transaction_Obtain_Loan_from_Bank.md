@@ -9,13 +9,13 @@ Let’s see how obtaining a loan from a bank affects Rose Designs:
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-dev-482"}}} 
 ```
 
-**Step 1: Identify the accounts and account type.** The two accounts involved are *Cash (Asset)* and *Notes Payable (Liability)*.
+**Step 1: Identify the accounts and account type.** The two accounts involved are Cash (Asset) and Notes Payable (Liability).
 
 Remember, a Notes Payable involves a liability that is long term or due in more than one year.
 
-**Step 2: Decide if each account increases or decreases.** *Cash increases*. The business has more cash than it had before. *Notes Payable increases*. The business now owes more debt than it did before.
+**Step 2: Decide if each account increases or decreases.** Cash increases. The business has more cash than it had before. Notes Payable increases. The business now owes more debt than it did before.
 
-**Step 3: Determine the impact on the financial statements.** The *balance sheet* reflects a $80,000 increase to the asset, Cash, and to the liability, Notes Payable. The *statement of cash flows, financing,* increases by $80,000.
+**Step 3: Determine the impact on the financial statements.** The balance sheet reflects a $80,000 increase to the asset, Cash, and to the liability, Notes Payable. The statement of cash flows, financing, increases by $80,000.
 
 ## Accounting in your business
 
