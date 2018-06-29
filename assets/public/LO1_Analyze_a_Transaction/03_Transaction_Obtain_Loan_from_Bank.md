@@ -1,6 +1,4 @@
-## Transaction 2: Obtain Loan From Bank
-
-## Why would a company choose equity financing over debt financing?
+## Transaction 2: Obtain Loan from Bank
 
 Sophie knows that $20,000 is not going to be enough money for the business to purchase equipment and supplies necessary to operate the business. She decides to approach her local bank for a 4-year, $80,000 loan. One of the disadvantages of debt financing when compared to equity financing is that debt financing requires that the loan be repaid to the creditor. When companies use debt financing, they typically must make monthly payments, including interest, to the creditor. When companies secure equity financing, there is no required payment to its investors.
 
@@ -11,13 +9,13 @@ Let’s see how obtaining a loan from a bank affects Rose Designs:
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-dev-482"}}} 
 ```
 
-**Step 1: Identify the accounts and account type.** The two accounts involved are Cash (Asset) and Notes Payable (Liability).
+**Step 1: Identify the accounts and account type.** The two accounts involved are *Cash (Asset)* and *Notes Payable (Liability)*.
 
 Remember, a Notes Payable involves a liability that is long term or due in more than one year.
 
-**Step 2: Decide if each account increases or decreases.** Cash increases. The business has more cash than it had before. Notes Payable increases. The business now owes more debt than it did before.
+**Step 2: Decide if each account increases or decreases.** *Cash increases*. The business has more cash than it had before. *Notes Payable increases*. The business now owes more debt than it did before.
 
-**Step 3: Determine the impact on the financial statements.** The balance sheet reflects a $80,000 increase to the asset, Cash, and to the liability, Notes Payable. The statement of cash flows, financing, increases by $80,000.
+**Step 3: Determine the impact on the financial statements.** The *balance sheet* reflects a $80,000 increase to the asset, Cash, and to the liability, Notes Payable. The *statement of cash flows, financing,* increases by $80,000.
 
 ## Accounting in your business
 
