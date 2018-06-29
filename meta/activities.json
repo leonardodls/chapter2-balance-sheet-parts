@@ -1,7 +1,85 @@
 {
   "items": [
+    {
+      "name": "Analyze_a_Transaction_Assessment",
+      "item-code": "Analyze_a_Transaction_Assessment",
+      "item-type": "folder",
+      "sub-type": "test",
+      "items": [
+        {
+          "name": "Question 1",
+          "item-code": "Analyze_a_Transaction_Assessment/Question-1",
+          "item-type": "resource",
+          "resource": "RE_0001"
+        }
+      ]
+    }
   ],
   "resources": {
+    "RE_0001": {
+      "meta": {
+        "type": "LEONARDODLS",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "app-data": {
+        "type": "spreadsheet-DLSleonardo",
+        "options": {
+          "dataPath": "Chapter_3_RotaryLoads/meta/3.7_Q1.json"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html":
+              "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": "",
+            "image": ""
+          }
+        ],
+        "canvas": {
+          "layout": "LEONARDODLS",
+          "data": {
+            "questiondata": [
+              {
+                "text":
+                  "<div id='md-content'><p>Rex’s Kennel began business in May. During the month, the company had the following transactions:</p><ol><li><p>Received an $80,000 contribution in exchange for common stock.</p></li><li><p>Paid $3,000 for the purchase of furniture.</p></li><li><p>Purchased equipment, $5,000, on account.</p></li><li><p>Developed a company logo and paid cash, $500.</p></li><li><p>Obtained a $20,000, 4-year loan, from the bank.</p></li></ol><p>Analyze each transaction using the accounting equation. Also determine the impact of each transaction on the financial statements.</p>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "configData"
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "Perfect. You got it correct",
+          "incorrect": "Sorry, Wrong response.",
+          "empty": "You did not enter anything."
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "60",
+          "ignorewhitespace": true
+        }
+      },
+      "learning-objectives": [],
+      "tags": ["test"]
+    }
   },
   "test": {}
 }

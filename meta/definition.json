@@ -396,12 +396,12 @@
         "learning-objectives": ["Analyze a Transaction"]
       },
       "RE_CH_2_SEC_1_7": {
-        "sub-type": "md",
+        "sub-type": "test",
         "tags": [
-          "Reading"
+          "Test"
         ],
         "md": {
-          "url": "LO1_Analyze_a_Transaction/07_Assessment.md"
+          "url": "Analyze_a_Transaction_Assessment"
         },
         "description": "",
         "learning-objectives": ["Analyze a Transaction"]
