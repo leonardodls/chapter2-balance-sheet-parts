@@ -245,7 +245,7 @@
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
-                "visible": true
+                "visible": false
               }
             }
           }
@@ -400,7 +400,7 @@
         "tags": [
           "Test"
         ],
-        "md": {
+        "test": {
           "url": "Analyze_a_Transaction_Assessment"
         },
         "description": "",
