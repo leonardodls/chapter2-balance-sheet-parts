@@ -26,6 +26,6 @@ Remember to always view this from the business’s perspective, not from the sto
 
 The balance sheet reflects a $20,000 increase to the asset, Cash, and to stockholders’ equity, Common Stock. The statement of cash flows, financing, is increased by $20,000.
 
-**\#\# Test your understanding**
+In the next topic we will see why would a company choose equity financing over debt financing?
 
-Why would a company choose equity financing over debt financing? Let us find out in “Next Topic” …
+## Test your understanding
