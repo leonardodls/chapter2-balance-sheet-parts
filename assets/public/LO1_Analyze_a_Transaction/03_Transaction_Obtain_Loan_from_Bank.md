@@ -7,18 +7,26 @@ Let’s see how obtaining a loan from a bank affects Rose Designs:
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-dev-581"}}} 
 ```
 
+Following table illustrates the impact of this transaction on the "Financial Statements" of Rose Designs:
+
 ```
 [cosmatt-widget]
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-dev-582"}}} 
 ```
 
-**Step 1: Identify the accounts and account type.** The two accounts involved are Cash (Asset) and Notes Payable (Liability).
+### Step 1: Identify the accounts and account type.
+
+The two accounts involved are Cash (Asset) and Notes Payable (Liability).
 
 Remember, a Notes Payable involves a liability that is long term or due in more than one year.
 
-**Step 2: Decide if each account increases or decreases.** Cash increases. The business has more cash than it had before. Notes Payable increases. The business now owes more debt than it did before.
+### Step 2: Decide if each account increases or decreases. 
 
-**Step 3: Determine the impact on the financial statements.** The balance sheet reflects a $80,000 increase to the asset, Cash, and to the liability, Notes Payable. The statement of cash flows, financing, increases by $80,000.
+Cash increases. The business has more cash than it had before. Notes Payable increases. The business now owes more debt than it did before.
+
+### Step 3: Determine the impact on the financial statements. 
+
+The balance sheet reflects a $80,000 increase to the asset, Cash, and to the liability, Notes Payable. The statement of cash flows, financing, increases by $80,000.
 
 ## Accounting in your business
 
@@ -36,4 +44,6 @@ Source: <https://www.inc.com/guides/2010/07/how-to-finance-your-business.html>
 
 ## Investing Activities for a Business
 
-Rose Designs has secured sufficient cash from financing. The company is now able to purchase equipment and other long-term assets necessary for the operations of the business. The purchase of long-term assets is a type of investing activity. In purchasing these long-term assets, the business is investing in its future. It will now have the property, building, and equipment needed to provide services to its customers. Let’s look at several investing transactions of Rose Designs.
+Rose Designs has secured sufficient cash from financing. The company is now able to purchase equipment and other long-term assets necessary for the operations of the business. The purchase of long-term assets is a type of investing activity. In purchasing these long-term assets, the business is investing in its future. It will now have the property, building, and equipment needed to provide services to its customers.
+
+Let’s look at several investing transactions of Rose Designs in further topics.

@@ -5,6 +5,8 @@ Rose Designs purchases furniture, $4,000, using the company’s credit card. The
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-dev-579"}}} 
 ```
 
+Following table illustrates the impact of this transaction on the "Financial Statements" of Rose Designs:
+
 ```
 [cosmatt-widget]
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-dev-580"}}} 
@@ -12,11 +14,17 @@ Rose Designs purchases furniture, $4,000, using the company’s credit card. The
 
 Let’s review the transaction using the steps we learned:
 
-**Step 1: Identify the accounts and account type**. The two accounts involved are Furniture (Asset) and Accounts Payable (Accounts Payable). When a business uses a credit card for purchases, they agree to pay the amount borrowed in the future. The liability created by purchasing “on account” is Accounts Payable, which is a short-term liability that will be paid in the future. Some companies might also use Credit Card Payable.
+### Step 1: Identify the accounts and account type. 
 
-**Step 2: Decide if each account increases or decreases**. Furniture increases. The business now has furniture. Accounts Payable increases. The business now owes more debt than it did before.
+The two accounts involved are Furniture (Asset) and Accounts Payable (Accounts Payable). When a business uses a credit card for purchases, they agree to pay the amount borrowed in the future. The liability created by purchasing “on account” is Accounts Payable, which is a short-term liability that will be paid in the future. Some companies might also use Credit Card Payable.
 
-**Step 3: Determine the impact on the financial statements**. The balance sheet reflects a $4,000 increase to the asset, Furniture, and a $4,000 increase to the liability, Accounts Payable. There is no impact on the statement of cash flows because this transaction does not involve cash.
+### Step 2: Decide if each account increases or decreases.
+
+Furniture increases. The business now has furniture. Accounts Payable increases. The business now owes more debt than it did before.
+
+### Step 3: Determine the impact on the financial statements. 
+
+The balance sheet reflects a $4,000 increase to the asset, Furniture, and a $4,000 increase to the liability, Accounts Payable. There is no impact on the statement of cash flows because this transaction does not involve cash.
 
 Why does this transaction not impact the statement of cash flows?
 
