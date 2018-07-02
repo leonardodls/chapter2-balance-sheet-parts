@@ -10,14 +10,6 @@ Sophie Rose, owner of Rose Designs, the interior design company we previously in
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-dev-584"}}} 
 ```
 
-## 
-
-## 
-
-## 
-
-## 
-
 ## Let’s take a close look at this transaction above following these steps:
 
 **Step 1: Identify the accounts and account type**. Each transaction must affect at least two accounts but could affect more than two. The two accounts involved in this transaction are Cash (Asset) and Common Stock (Stockholders’ Equity).
