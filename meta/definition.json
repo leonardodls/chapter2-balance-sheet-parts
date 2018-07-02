@@ -443,7 +443,7 @@
           "Practice"
         ],
         "test": {
-          "url": "IssueStockToStockHolders"
+          "url": "Issue_Stock_To_StockHolders"
         },
         "description": "L01 Analyze a Transaction - Issue Stock to Stockholders - Test your understanding",
         "learning-objectives": []

@@ -15,14 +15,14 @@
       ]
     },
     {
-      "name": "IssueStockToStockHolders",
+      "name": "Issue_Stock_To_StockHolders",
       "item-code": "Issue_Stock_To_StockHolders",
       "item-type": "folder",
       "sub-type": "test",
       "items": [
         {
           "name": "Question 1",
-          "item-code": "Analyze_a_Transaction_Assessment/Question-1",
+          "item-code": "Issue_Stock_To_StockHolders/Question-1",
           "item-type": "resource",
           "resource": "RE_0002"
         }
@@ -42,8 +42,7 @@
       "app-data": {
         "type": "spreadsheet-DLSleonardo",
         "options": {
-          "itemId": "leo-leonardo-dev-586",
-          "dataPath": "LO1_Analyze_a_Transaction/meta/2.7_Q1.json"
+          "itemId": "leo-leonardo-dev-586"
         }
       },
       "content": {
