@@ -12,7 +12,7 @@ Following table illustrates the impact of this transaction on the "Financial Sta
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-dev-584"}}} 
 ```
 
-## Let’s take a close look at this transaction above following these steps:
+Let’s take a close look at this transaction above following these steps:
 
 ### Step 1: Identify the accounts and account type. 
 
@@ -26,4 +26,4 @@ Remember to always view this from the business’s perspective, not from the sto
 
 The balance sheet reflects a $20,000 increase to the asset, Cash, and to stockholders’ equity, Common Stock. The statement of cash flows, financing, is increased by $20,000.
 
-### Why would a company choose equity financing over debt financing? Move to next topic …
+### Why would a company choose equity financing over debt financing? Let us find out in “Next Topic” …
