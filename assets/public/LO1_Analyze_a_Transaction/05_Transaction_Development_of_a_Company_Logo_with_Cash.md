@@ -6,7 +6,12 @@ The effect on the accounting equation is as follows:
 
 ```
 [cosmatt-widget]
- {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-dev-482"}}} 
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-dev-577"}}} 
+```
+
+```
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-dev-578"}}} 
 ```
 
 **Step 1: Identify the accounts and account type.** The two accounts involved are Cash (Asset) and Trademark (Asset).

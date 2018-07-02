@@ -2,7 +2,12 @@ Rose Designs purchases furniture, $4,000, using the company’s credit card. The
 
 ```
 [cosmatt-widget]
- {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-dev-482"}}} 
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-dev-579"}}} 
+```
+
+```
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-dev-580"}}} 
 ```
 
 Let’s review the transaction using the steps we learned:

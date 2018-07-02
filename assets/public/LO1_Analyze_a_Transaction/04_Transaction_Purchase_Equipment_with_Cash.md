@@ -2,7 +2,12 @@ Rose Designs buys equipment, $10,000 with cash. This transaction increases and d
 
 ```
 [cosmatt-widget]
- {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-dev-482"}}} 
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-dev-575"}}} 
+```
+
+```
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-dev-576"}}} 
 ```
 
 **Step 1: Identify the accounts and account type**. The two accounts involved are Equipment (Asset) and Cash (Asset). Equipment is an asset, not an expense, because the equipment is of value to the company and will benefit it in the future.

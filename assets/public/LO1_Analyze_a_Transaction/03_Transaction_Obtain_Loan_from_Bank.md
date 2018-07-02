@@ -4,7 +4,12 @@ Let’s see how obtaining a loan from a bank affects Rose Designs:
 
 ```
 [cosmatt-widget]
- {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-dev-482"}}} 
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-dev-581"}}} 
+```
+
+```
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-dev-582"}}} 
 ```
 
 **Step 1: Identify the accounts and account type.** The two accounts involved are Cash (Asset) and Notes Payable (Liability).
