@@ -177,6 +177,15 @@
             "resource": "RE_CH_2_SEC_1_2",
             "item-code": "LO1_Analyze_a_Transaction/Transaction_Issue_Stock_to_Stockholders",
             "tracking": true,
+            "embedded": [
+              {
+                "item-code": "LO1_Analyze_a_Transaction/Transaction_Issue_Stock_to_Stockholders/emb_01",
+                "resource": "RE_CH_2_SEC_1_ET_1",
+                "item-type": "resource",
+                "name": "Emb Test 1",
+                "tracking": false
+              }
+            ],
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
@@ -427,6 +436,17 @@
         },
         "description": "",
         "learning-objectives": ["Evaluate a Company’s Ability to Pay Its Short-Term Debt"]
+      },
+      "RE_CH_2_SEC_1_ET_1": {
+        "sub-type": "test",
+        "tags": [
+          "Practice"
+        ],
+        "test": {
+          "url": "IssueStockToStockHolders"
+        },
+        "description": "L01 Analyze a Transaction - Issue Stock to Stockholders - Test your understanding",
+        "learning-objectives": []
       }
     },
     "test": {},

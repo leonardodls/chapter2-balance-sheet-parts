@@ -16,8 +16,6 @@ Following table illustrates the impact of this transaction on the "Financial Sta
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-dev-578"}}} 
 ```
 
-### 
-
 ### Step 1: Identify the accounts and account type. 
 
 The two accounts involved are Cash (Asset) and Trademark (Asset).
