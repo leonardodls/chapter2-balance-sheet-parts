@@ -1,4 +1,4 @@
-## Apply transaction analysis to analyze a company’s financing and investing business activities.
+## Apply transaction analysis to analyse a company’s financing and investing business activities
 
 Recall the accounting equation (Assets = Liabilities + Stockholders’ Equity). Companies use the expanded accounting equation to record the transactions of a business. A transaction is any event that affects the financial position of the business and can be measured.
 
@@ -9,7 +9,9 @@ Recall the accounting equation (Assets = Liabilities + Stockholders’ Equity). 
 
 Transactions affect what the company has (assets), owes (liabilities), and/or its net worth (equity). Many events affect a company; however, businesses only record events when they can measure dollar amounts reliably, such as the purchase of a building or the sale of inventory.
 
-Transaction Any event that affects the financial position of the business and can be measured.
+Transaction
+
+Any event that affects the financial position of the business and can be measured.
 
 ## Financing Activities for a Business
 

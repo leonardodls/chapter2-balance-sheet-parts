@@ -172,7 +172,7 @@
             }
           },
           {
-            "name": "Transaction: Issue Stock to Stockholders",
+            "name": "Issue Stock to Stockholders",
             "item-type": "resource",
             "resource": "RE_CH_2_SEC_1_2",
             "item-code": "LO1_Analyze_a_Transaction/Transaction_Issue_Stock_to_Stockholders",
@@ -185,7 +185,7 @@
             }
           },
           {
-            "name": "Transaction: Obtain Loan from Bank",
+            "name": "Obtain Loan from Bank",
             "item-type": "resource",
             "resource": "RE_CH_2_SEC_1_3",
             "item-code": "LO1_Analyze_a_Transaction/Transaction_Obtain_Loan_from_Bank",
@@ -198,7 +198,7 @@
             }
           },
           {
-            "name": "Transaction: Purchase Equipment with Cash",
+            "name": "Purchase Equipment with Cash",
             "item-type": "resource",
             "resource": "RE_CH_2_SEC_1_4",
             "item-code": "LO1_Analyze_a_Transaction/Transaction_Purchase_Equipment_with_Cash",
@@ -211,7 +211,7 @@
             }
           },
           {
-            "name": "Transaction: Development of a Company Logo with Cash",
+            "name": "Development of a Company Logo with Cash",
             "item-type": "resource",
             "resource": "RE_CH_2_SEC_1_5",
             "item-code": "LO1_Analyze_a_Transaction/Transaction_Development_of_a_Company_Logo_with_Cash",
@@ -224,7 +224,7 @@
             }
           },
           {
-            "name": "Transaction: Purchase Furniture on Account",
+            "name": "Purchase Furniture on Account",
             "item-type": "resource",
             "resource": "RE_CH_2_SEC_1_6",
             "item-code": "LO1_Analyze_a_Transaction/Transaction_Purchase_Furniture_on_Account",
