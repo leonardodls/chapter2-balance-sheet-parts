@@ -224,10 +224,10 @@
           "tag": ""
         }],
         "canvas": {
-          "layout": "MCQMC",
+          "layout": "MCQ",
           "data": {
             "questiondata": [{
-              "text": " Do you feel OK? <a href='http://www.comprodls.com/m1.0/interaction/mcqmc'>i1</a>"
+              "text": " Do you feel OK? <a href='http://www.comprodls.com/m1.0/interaction/mcq'>i1</a>"
             }]
           },
           "raw": ""
