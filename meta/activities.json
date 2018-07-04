@@ -1,26 +1,22 @@
 {
-  "items": [
-    {
+  "items": [{
       "name": "Analyze_a_Transaction_Assessment",
       "item-code": "Analyze_a_Transaction_Assessment",
       "item-type": "folder",
       "sub-type": "test",
-      "items": [
-        {
-          "name": "Question 1",
-          "item-code": "Analyze_a_Transaction_Assessment/Question-1",
-          "item-type": "resource",
-          "resource": "A1_0001"
-        }
-      ]
+      "items": [{
+        "name": "Question 1",
+        "item-code": "Analyze_a_Transaction_Assessment/Question-1",
+        "item-type": "resource",
+        "resource": "A1_0001"
+      }]
     },
     {
       "name": "Issue_Stock_To_StockHolders",
       "item-code": "Issue_Stock_To_StockHolders",
       "item-type": "folder",
       "sub-type": "test",
-      "items": [
-        {
+      "items": [{
           "name": "Question 1",
           "item-code": "Issue_Stock_To_StockHolders/Question-1",
           "item-type": "resource",
@@ -58,27 +54,20 @@
         }
       },
       "content": {
-        "instructions": [
-          {
-            "tag": "html",
-            "html":
-              "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": "",
-            "image": ""
-          }
-        ],
+        "instructions": [{
+          "tag": "html",
+          "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+        }],
+        "stimulus": [{
+          "tag": "",
+          "image": ""
+        }],
         "canvas": {
           "layout": "LEONARDODLS",
           "data": {
-            "questiondata": [
-              {
-                "text":""
-              }
-            ]
+            "questiondata": [{
+              "text": ""
+            }]
           },
           "raw": ""
         },
@@ -121,27 +110,20 @@
         }
       },
       "content": {
-        "instructions": [
-          {
-            "tag": "html",
-            "html":
-              "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": "",
-            "image": ""
-          }
-        ],
+        "instructions": [{
+          "tag": "html",
+          "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+        }],
+        "stimulus": [{
+          "tag": "",
+          "image": ""
+        }],
         "canvas": {
           "layout": "LEONARDODLS",
           "data": {
-            "questiondata": [
-              {
-                "text":""
-              }
-            ]
+            "questiondata": [{
+              "text": ""
+            }]
           },
           "raw": ""
         },
@@ -184,27 +166,20 @@
         }
       },
       "content": {
-        "instructions": [
-          {
-            "tag": "html",
-            "html":
-              "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": "",
-            "image": ""
-          }
-        ],
+        "instructions": [{
+          "tag": "html",
+          "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+        }],
+        "stimulus": [{
+          "tag": "",
+          "image": ""
+        }],
         "canvas": {
           "layout": "LEONARDODLS",
           "data": {
-            "questiondata": [
-              {
-                "text":""
-              }
-            ]
+            "questiondata": [{
+              "text": ""
+            }]
           },
           "raw": ""
         },
@@ -241,42 +216,33 @@
         }
       },
       "content": {
-        "instructions": [
-          {
-            "tag": ""
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": "image",
-            "image":
-              ""
-          }
-        ],
+        "instructions": [{
+          "tag": "text",
+          "text": ""
+        }],
+        "stimulus": [{
+          "tag": ""
+        }],
         "canvas": {
-          "layout": "MCQ_IMAGE",
+          "layout": "MCQMC",
           "data": {
-            "questiondata": [
-              {
-                "text":
-                  "<p>In a simple elevator application, what type of Load Torque is created by the cable? </p><a href='http://www.comprodls.com/m1.0/interaction/mcmr'>i1</a>"
-              }
-            ]
+            "questiondata": [{
+              "text": " Do you feel OK? <a href='http://www.comprodls.com/m1.0/interaction/mcqmc'>i1</a>"
+            }]
           },
           "raw": ""
         },
         "interactions": {
           "i1": {
             "type": "MCMR",
-            "MCMR": [
-              {
-                "choiceA": "Inertia"
+            "MCMR": [{
+                "choiceA": "No, I don't feel well."
               },
               {
-                "choiceB": "Friction Torque"
+                "choiceB": "Yes, I don't feel well."
               },
               {
-                "choiceC": "External Torque"
+                "choiceC": "Yes, I feel fine."
               }
             ]
           }
@@ -285,20 +251,23 @@
       },
       "feedback": {
         "global": {
-          "correct": "Perfect. You got it correct !!!",
-          "incorrect": "Sorry, Wrong response.",
-          "empty": "You did not enter anything."
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
         }
       },
       "responses": {
         "i1": {
-          "correct":  [
-            "choiceC", "choiceA"
+          "correct": [
+            "choiceA",
+            "choiceC"
           ]
         }
       },
       "learning-objectives": [],
-      "tags": ["test"]
+      "tags": [
+        "test"
+      ]
     }
   },
   "test": {}
