@@ -208,7 +208,7 @@
     },
     "T1_0003": {
       "meta": {
-        "type": "MCQMR",
+        "type": "MCMR",
         "score": {
           "default": 0,
           "max": 1,
@@ -234,8 +234,8 @@
         },
         "interactions": {
           "i1": {
-            "type": "MCQMR",
-            "MCQMR": [{
+            "type": "MCMR",
+            "MCMR": [{
                 "choiceA": "No, I don't feel well."
               },
               {
