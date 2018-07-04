@@ -10,7 +10,7 @@
           "name": "Question 1",
           "item-code": "Analyze_a_Transaction_Assessment/Question-1",
           "item-type": "resource",
-          "resource": "RE_0001"
+          "resource": "A1_0001"
         }
       ]
     },
@@ -24,13 +24,19 @@
           "name": "Question 1",
           "item-code": "Issue_Stock_To_StockHolders/Question-1",
           "item-type": "resource",
-          "resource": "RE_0002"
+          "resource": "T1_0001"
+        },
+        {
+          "name": "Question 2",
+          "item-code": "Issue_Stock_To_StockHolders/Question-2",
+          "item-type": "resource",
+          "resource": "T1_0002"
         }
       ]
     }
   ],
   "resources": {
-    "RE_0001": {
+    "A1_0001": {
       "meta": {
         "type": "LEONARDODLS",
         "score": {
@@ -93,7 +99,7 @@
       "learning-objectives": [],
       "tags": ["test"]
     },
-    "RE_0002": {
+    "T1_0001": {
       "meta": {
         "type": "LEONARDODLS",
         "score": {
@@ -106,6 +112,69 @@
         "type": "spreadsheet-DLSleonardo",
         "options": {
           "itemId": "leo-leonardo-dev-587"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html":
+              "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": "",
+            "image": ""
+          }
+        ],
+        "canvas": {
+          "layout": "LEONARDODLS",
+          "data": {
+            "questiondata": [
+              {
+                "text":""
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "configData"
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "Perfect. You got it correct",
+          "incorrect": "Sorry, Wrong response.",
+          "empty": "You did not enter anything."
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "60",
+          "ignorewhitespace": true
+        }
+      },
+      "learning-objectives": [],
+      "tags": ["test"]
+    },
+    "T1_0002": {
+      "meta": {
+        "type": "LEONARDODLS",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "app-data": {
+        "type": "spreadsheet-DLSleonardo",
+        "options": {
+          "itemId": "leo-leonardo-dev-610"
         }
       },
       "content": {
