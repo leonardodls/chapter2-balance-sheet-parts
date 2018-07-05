@@ -139,7 +139,7 @@
           {
             "name": "Coming Soon",
             "item-type": "resource",
-            "resource": "RE_CH_1_SEC_1_1",
+            "resource": "RE_CH_1_SEC_1",
             "item-code": "LO0_Introduction/Introduction",
             "tracking": true,
             "attribs": {
@@ -161,7 +161,7 @@
           {
             "name": "Introduction",
             "item-type": "resource",
-            "resource": "RE_CH_2_SEC_1_1",
+            "resource": "RE_CH_2_SEC_1",
             "item-code": "LO1_Analyze_a_Transaction/Introduction",
             "tracking": true,
             "attribs": {
@@ -174,13 +174,13 @@
           {
             "name": "Issue Stock to Stockholders",
             "item-type": "resource",
-            "resource": "RE_CH_2_SEC_1_2",
+            "resource": "RE_CH_2_SEC_2",
             "item-code": "LO1_Analyze_a_Transaction/Transaction_Issue_Stock_to_Stockholders",
             "tracking": true,
             "embedded": [
               {
                 "item-code": "LO1_Analyze_a_Transaction/Transaction_Issue_Stock_to_Stockholders/emb_01",
-                "resource": "RE_CH_2_SEC_1_ET_1",
+                "resource": "RE_CH_2_SEC_2_ET_1",
                 "item-type": "resource",
                 "name": "Emb Test 1",
                 "tracking": false
@@ -196,9 +196,18 @@
           {
             "name": "Obtain Loan from Bank",
             "item-type": "resource",
-            "resource": "RE_CH_2_SEC_1_3",
+            "resource": "RE_CH_2_SEC_3",
             "item-code": "LO1_Analyze_a_Transaction/Transaction_Obtain_Loan_from_Bank",
             "tracking": true,
+            "embedded": [
+              {
+                "item-code": "LO1_Analyze_a_Transaction/Transaction_Obtain_Loan_from_Bank/emb_01",
+                "resource": "RE_CH_2_SEC_3_ET_1",
+                "item-type": "resource",
+                "name": "Emb Test 1",
+                "tracking": false
+              }
+            ],
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
@@ -209,9 +218,18 @@
           {
             "name": "Purchase Equipment with Cash",
             "item-type": "resource",
-            "resource": "RE_CH_2_SEC_1_4",
+            "resource": "RE_CH_2_SEC_4",
             "item-code": "LO1_Analyze_a_Transaction/Transaction_Purchase_Equipment_with_Cash",
             "tracking": true,
+            "embedded": [
+              {
+                "item-code": "LO1_Analyze_a_Transaction/Transaction_Purchase_Equipment_with_Cash/emb_01",
+                "resource": "RE_CH_2_SEC_4_ET_1",
+                "item-type": "resource",
+                "name": "Emb Test 1",
+                "tracking": false
+              }
+            ],
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
@@ -222,9 +240,18 @@
           {
             "name": "Development of a Company Logo with Cash",
             "item-type": "resource",
-            "resource": "RE_CH_2_SEC_1_5",
+            "resource": "RE_CH_2_SEC_5",
             "item-code": "LO1_Analyze_a_Transaction/Transaction_Development_of_a_Company_Logo_with_Cash",
             "tracking": true,
+            "embedded": [
+              {
+                "item-code": "LO1_Analyze_a_Transaction/Transaction_Development_of_a_Company_Logo_with_Cash/emb_01",
+                "resource": "RE_CH_2_SEC_5_ET_1",
+                "item-type": "resource",
+                "name": "Emb Test 1",
+                "tracking": false
+              }
+            ],
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
@@ -235,9 +262,18 @@
           {
             "name": "Purchase Furniture on Account",
             "item-type": "resource",
-            "resource": "RE_CH_2_SEC_1_6",
+            "resource": "RE_CH_2_SEC_6",
             "item-code": "LO1_Analyze_a_Transaction/Transaction_Purchase_Furniture_on_Account",
             "tracking": true,
+            "embedded": [
+              {
+                "item-code": "LO1_Analyze_a_Transaction/Transaction_Purchase_Furniture_on_Account/emb_01",
+                "resource": "RE_CH_2_SEC_6_ET_1",
+                "item-type": "resource",
+                "name": "Emb Test 1",
+                "tracking": false
+              }
+            ],
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
@@ -248,7 +284,7 @@
           {
             "name": "Assessment",
             "item-type": "resource",
-            "resource": "RE_CH_2_SEC_1_7",
+            "resource": "RE_CH_2_SEC_7",
             "item-code": "LO1_Analyze_a_Transaction/Assessment",
             "tracking": true,
             "attribs": {
@@ -270,7 +306,7 @@
           {
             "name": "Coming Soon",
             "item-type": "resource",
-            "resource": "RE_CH_3_SEC_1_1",
+            "resource": "RE_CH_3_SEC_1",
             "item-code": "LO2_Prepare_a_Classified_Balance_Sheet/Introduction",
             "tracking": true,
             "attribs": {
@@ -292,7 +328,7 @@
           {
             "name": "Coming Soon",
             "item-type": "resource",
-            "resource": "RE_CH_4_SEC_1_1",
+            "resource": "RE_CH_4_SEC_1",
             "item-code": "LO3_Evaluate_a_Companys_Ability_to_Pay_Its_Short_Term_Debt/Introduction",
             "tracking": true,
             "attribs": {
@@ -327,7 +363,7 @@
         "description": "",
         "learning-objectives": []
       },
-      "RE_CH_1_SEC_1_1": {
+      "RE_CH_1_SEC_1": {
         "sub-type": "md",
         "tags": [
           "Reading"
@@ -338,7 +374,7 @@
         "description": "",
         "learning-objectives": []
       },
-      "RE_CH_2_SEC_1_1": {
+      "RE_CH_2_SEC_1": {
         "sub-type": "md",
         "tags": [
           "Reading"
@@ -349,7 +385,7 @@
         "description": "",
         "learning-objectives": ["Analyze a Transaction"]
       },
-      "RE_CH_2_SEC_1_2": {
+      "RE_CH_2_SEC_2": {
         "sub-type": "md",
         "tags": [
           "Reading"
@@ -360,7 +396,7 @@
         "description": "",
         "learning-objectives": ["Analyze a Transaction"]
       },
-      "RE_CH_2_SEC_1_3": {
+      "RE_CH_2_SEC_3": {
         "sub-type": "md",
         "tags": [
           "Reading"
@@ -371,7 +407,7 @@
         "description": "",
         "learning-objectives": ["Analyze a Transaction"]
       },
-      "RE_CH_2_SEC_1_4": {
+      "RE_CH_2_SEC_4": {
         "sub-type": "md",
         "tags": [
           "Reading"
@@ -382,7 +418,7 @@
         "description": "",
         "learning-objectives": ["Analyze a Transaction"]
       },
-      "RE_CH_2_SEC_1_5": {
+      "RE_CH_2_SEC_5": {
         "sub-type": "md",
         "tags": [
           "Reading"
@@ -393,7 +429,7 @@
         "description": "",
         "learning-objectives": ["Analyze a Transaction"]
       },
-      "RE_CH_2_SEC_1_6": {
+      "RE_CH_2_SEC_6": {
         "sub-type": "md",
         "tags": [
           "Reading"
@@ -404,7 +440,7 @@
         "description": "",
         "learning-objectives": ["Analyze a Transaction"]
       },
-      "RE_CH_2_SEC_1_7": {
+      "RE_CH_2_SEC_7": {
         "sub-type": "test",
         "tags": [
           "Test"
@@ -415,7 +451,7 @@
         "description": "",
         "learning-objectives": ["Analyze a Transaction"]
       },
-      "RE_CH_3_SEC_1_1": {
+      "RE_CH_3_SEC_1": {
         "sub-type": "md",
         "tags": [
           "Reading"
@@ -426,7 +462,7 @@
         "description": "",
         "learning-objectives": ["Prepare a Classified Balance Sheet"]
       },
-      "RE_CH_4_SEC_1_1": {
+      "RE_CH_4_SEC_1": {
         "sub-type": "md",
         "tags": [
           "Reading"
@@ -437,7 +473,7 @@
         "description": "",
         "learning-objectives": ["Evaluate a Company’s Ability to Pay Its Short-Term Debt"]
       },
-      "RE_CH_2_SEC_1_ET_1": {
+      "RE_CH_2_SEC_2_ET_1": {
         "sub-type": "test",
         "tags": [
           "Practice"
@@ -446,6 +482,50 @@
           "url": "Issue_Stock_To_StockHolders"
         },
         "description": "L01 Analyze a Transaction - Issue Stock to Stockholders - Test your understanding",
+        "learning-objectives": []
+      },
+      "RE_CH_2_SEC_3_ET_1": {
+        "sub-type": "test",
+        "tags": [
+          "Practice"
+        ],
+        "test": {
+          "url": "Obtain_Loan_from_Bank"
+        },
+        "description": "L01 Analyze a Transaction - Obtain Loan from Bank - Test your understanding",
+        "learning-objectives": []
+      },
+      "RE_CH_2_SEC_4_ET_1": {
+        "sub-type": "test",
+        "tags": [
+          "Practice"
+        ],
+        "test": {
+          "url": "Purchase_Equipment_with_Cash"
+        },
+        "description": "L01 Analyze a Transaction - Purchase Equipment with Cash - Test your understanding",
+        "learning-objectives": []
+      },
+      "RE_CH_2_SEC_5_ET_1": {
+        "sub-type": "test",
+        "tags": [
+          "Practice"
+        ],
+        "test": {
+          "url": "Development_of_a_Company_Logo_with_Cash"
+        },
+        "description": "L01 Analyze a Transaction - Development of a Company Logo with Cash - Test your understanding",
+        "learning-objectives": []
+      },
+      "RE_CH_2_SEC_6_ET_1": {
+        "sub-type": "test",
+        "tags": [
+          "Practice"
+        ],
+        "test": {
+          "url": "Purchase_Furniture_on_Account"
+        },
+        "description": "L01 Analyze a Transaction - Purchase Furniture on Account- Test your understanding",
         "learning-objectives": []
       }
     },
