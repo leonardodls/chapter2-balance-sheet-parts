@@ -171,7 +171,7 @@
           "layout": "MCQ",
           "data": {
             "questiondata": [{
-              "text": " Do you feel OK? <a href='http://www.comprodls.com/m1.0/interaction/mcqmc'>i1</a>"
+              "text": "Andrea Liu, owner of Liu Designs, an interior design company, invests $35,000 cash in her business. In exchange for her cash contribution, the corporation will issue common stock to Andrea.<br><br>Which of the following financial statement(s) will get affected by the above transaction: <a href='http://www.comprodls.com/m1.0/interaction/mcqmc'>i1</a>"
             }]
           },
           "raw": ""
@@ -180,13 +180,16 @@
           "i1": {
             "type": "MCMR",
             "MCMR": [{
-                "choiceA": "No, I don't feel well."
+                "choiceA": "Income Statement"
               },
               {
-                "choiceB": "Yes, I don't feel well."
+                "choiceB": "Statement of Retained Earnings"
               },
               {
-                "choiceC": "Yes, I feel fine."
+                "choiceC": "Balance Sheet"
+              },
+              {
+                "choiceD": "Statement of cash flows"
               }
             ]
           }
@@ -203,8 +206,8 @@
       "responses": {
         "i1": {
           "correct": [
-            "choiceA",
-            "choiceC"
+            "choiceC",
+            "choiceD"
           ]
         }
       },
