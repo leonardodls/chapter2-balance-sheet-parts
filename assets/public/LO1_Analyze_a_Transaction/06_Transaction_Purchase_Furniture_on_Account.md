@@ -9,7 +9,7 @@ Following table illustrates the impact of this transaction on the "Financial Sta
 
 ```
 [cosmatt-widget]
- {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-dev-580"}}} 
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-112"}}} 
 ```
 
 Let’s review the transaction using the steps we learned:
