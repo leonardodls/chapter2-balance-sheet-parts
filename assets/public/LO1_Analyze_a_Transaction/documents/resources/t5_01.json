@@ -2,7 +2,14 @@
     "type": "spreadsheet-DLSleonardo-v2",
     "options": {
       "data": {
-        "itemId": "leo-leonardo-dev-579"
+        "itemId": "leo-leonardo-demo-107",
+        "meta": {
+	        "renderOverrides": {
+	          "widgetStyles": {
+	            "border": "none"
+	          }
+	        }
+      	}
       }
     }
   }

@@ -6,7 +6,7 @@ The effect on the accounting equation is as follows:
 
 ```
 [cosmatt-widget]
- {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-dev-577"}}} 
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-106","meta":{"renderOverrides":{"widgetStyles":{"border":"none"}}}}}} 
 ```
 
 Following table illustrates the impact of this transaction on the "Financial Statements" of Rose Designs:

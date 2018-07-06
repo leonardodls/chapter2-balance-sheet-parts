@@ -4,7 +4,7 @@ Let’s see how obtaining a loan from a bank affects Rose Designs:
 
 ```
 [cosmatt-widget]
- {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-dev-581"}}} 
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-104","meta":{"renderOverrides":{"widgetStyles":{"border":"none"}}}}}} 
 ```
 
 Following table illustrates the impact of this transaction on the "Financial Statements" of Rose Designs:

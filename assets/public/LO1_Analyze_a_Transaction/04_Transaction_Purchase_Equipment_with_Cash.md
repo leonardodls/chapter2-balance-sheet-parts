@@ -2,7 +2,7 @@ Rose Designs buys equipment, $10,000 with cash. This transaction increases and d
 
 ```
 [cosmatt-widget]
- {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-dev-575"}}} 
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-105","meta":{"renderOverrides":{"widgetStyles":{"border":"none"}}}}}} 
 ```
 
 Following table illustrates the impact of this transaction on the "Financial Statements" of Rose Designs:
