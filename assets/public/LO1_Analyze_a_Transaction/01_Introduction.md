@@ -4,7 +4,7 @@ Recall the accounting equation (Assets = Liabilities + Stockholders’ Equity). 
 
 ```
 [cosmatt-widget]
- {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-dev-585"}}} 
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-99"}}} 
 ```
 
 Transactions affect what the company has (assets), owes (liabilities), and/or its net worth (equity). Many events affect a company; however, businesses only record events when they can measure dollar amounts reliably, such as the purchase of a building or the sale of inventory.
