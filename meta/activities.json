@@ -41,6 +41,12 @@
           "item-code": "Issue_Stock_To_StockHolders/Question-3",
           "item-type": "resource",
           "resource": "T1_0003"
+        },
+        {
+          "name": "Question 4",
+          "item-code": "Issue_Stock_To_StockHolders/Question-4",
+          "item-type": "resource",
+          "resource": "T1_0004"
         }
       ]
     },
@@ -158,7 +164,7 @@
       "app-data": {
         "type": "spreadsheet-DLSleonardo",
         "options": {
-          "itemId": "leo-leonardo-dev-586"
+          "itemId": "leo-leonardo-demo-127"
         }
       },
       "content": {
@@ -214,7 +220,7 @@
       "app-data": {
         "type": "spreadsheet-DLSleonardo",
         "options": {
-          "itemId": "leo-leonardo-dev-640"
+          "itemId": "leo-leonardo-demo-128"
         }
       },
       "content": {
@@ -270,7 +276,7 @@
       "app-data": {
         "type": "spreadsheet-DLSleonardo",
         "options": {
-          "itemId": "leo-leonardo-dev-587"
+          "itemId": "leo-leonardo-demo-116"
         }
       },
       "content": {
@@ -392,7 +398,63 @@
       "app-data": {
         "type": "spreadsheet-DLSleonardo",
         "options": {
-          "itemId": "leo-leonardo-dev-610"
+          "itemId": "leo-leonardo-demo-117"
+        }
+      },
+      "content": {
+        "instructions": [{
+          "tag": "html",
+          "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+        }],
+        "stimulus": [{
+          "tag": "",
+          "image": ""
+        }],
+        "canvas": {
+          "layout": "LEONARDODLS",
+          "data": {
+            "questiondata": [{
+              "text": ""
+            }]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "configData"
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "Perfect. You got it correct",
+          "incorrect": "Sorry, Wrong response.",
+          "empty": "You did not enter anything."
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "60",
+          "ignorewhitespace": true
+        }
+      },
+      "learning-objectives": [],
+      "tags": ["test"]
+    },
+    "T1_0004": {
+      "meta": {
+        "type": "LEONARDODLS",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "app-data": {
+        "type": "spreadsheet-DLSleonardo",
+        "options": {
+          "itemId": "leo-leonardo-demo-118"
         }
       },
       "content": {
@@ -448,7 +510,7 @@
       "app-data": {
         "type": "spreadsheet-DLSleonardo",
         "options": {
-          "itemId": "leo-leonardo-dev-632"
+          "itemId": "leo-leonardo-demo-119"
         }
       },
       "content": {
@@ -570,7 +632,7 @@
       "app-data": {
         "type": "spreadsheet-DLSleonardo",
         "options": {
-          "itemId": "leo-leonardo-dev-633"
+          "itemId": "leo-leonardo-demo-120"
         }
       },
       "content": {
@@ -626,7 +688,7 @@
       "app-data": {
         "type": "spreadsheet-DLSleonardo",
         "options": {
-          "itemId": "leo-leonardo-dev-634"
+          "itemId": "leo-leonardo-demo-121"
         }
       },
       "content": {
@@ -748,7 +810,7 @@
       "app-data": {
         "type": "spreadsheet-DLSleonardo",
         "options": {
-          "itemId": "leo-leonardo-dev-635"
+          "itemId": "leo-leonardo-demo-122"
         }
       },
       "content": {
@@ -804,7 +866,7 @@
       "app-data": {
         "type": "spreadsheet-DLSleonardo",
         "options": {
-          "itemId": "leo-leonardo-dev-636"
+          "itemId": "leo-leonardo-demo-123"
         }
       },
       "content": {
@@ -926,7 +988,7 @@
       "app-data": {
         "type": "spreadsheet-DLSleonardo",
         "options": {
-          "itemId": "leo-leonardo-dev-637"
+          "itemId": "leo-leonardo-demo-124"
         }
       },
       "content": {
@@ -982,7 +1044,7 @@
       "app-data": {
         "type": "spreadsheet-DLSleonardo",
         "options": {
-          "itemId": "leo-leonardo-dev-638"
+          "itemId": "leo-leonardo-demo-125"
         }
       },
       "content": {
@@ -1103,7 +1165,7 @@
       "app-data": {
         "type": "spreadsheet-DLSleonardo",
         "options": {
-          "itemId": "leo-leonardo-dev-639"
+          "itemId": "leo-leonardo-demo-126"
         }
       },
       "content": {
