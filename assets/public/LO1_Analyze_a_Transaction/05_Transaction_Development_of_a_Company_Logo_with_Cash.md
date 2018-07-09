@@ -27,3 +27,5 @@ Cash decreases. The business paid cash to develop the trademark. Trademark incre
 ### Step 3: Determine the impact on the financial statements. 
 
 The balance sheet reflects a $5,000 decrease to the asset, Cash, and a $5,000 increase to the asset, Trademark. The statement of cash flows, investing, decreases by $5,000**.**
+
+## Test your understanding

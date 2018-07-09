@@ -31,3 +31,5 @@ Why does this transaction not impact the statement of cash flows?
 ## Operating Activities for a Business
 
 Take a moment to look at the balances of each account and the financial statements after the last transaction. Did you notice that none of the transactions affected the Revenue or Expense accounts? In addition, none of the transactions impacted the Income Statement. This is because Rose Designs hasn’t sold any services to customers (Revenues) or incurred any expenses. These types of activities are considered operating activities and reflect the day-to-day operations of the business. We will learn how to record a company’s operating activities in a later chapter when we learn about the income statement.
+
+## Test your understanding

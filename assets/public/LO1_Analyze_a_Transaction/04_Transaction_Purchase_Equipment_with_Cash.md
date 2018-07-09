@@ -25,3 +25,5 @@ Equipment increases. The business now has more equipment than it had before. Cas
 **Step 3: Determine the impact on the financial statements**.
 
 The balance sheet reflects a $10,000 decrease to the asset, Cash, and a $10,000 increase to the asset, Equipment. The statement of cash flows, investing, is decreased by $10,000.
+
+## Test your understanding

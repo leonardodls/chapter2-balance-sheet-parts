@@ -46,4 +46,4 @@ Source: <https://www.inc.com/guides/2010/07/how-to-finance-your-business.html>
 
 Rose Designs has secured sufficient cash from financing. The company is now able to purchase equipment and other long-term assets necessary for the operations of the business. The purchase of long-term assets is a type of investing activity. In purchasing these long-term assets, the business is investing in its future. It will now have the property, building, and equipment needed to provide services to its customers.
 
-Let’s look at several investing transactions of Rose Designs in further topics.
+## Test your understanding

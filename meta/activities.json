@@ -341,7 +341,7 @@
           "layout": "MCQ",
           "data": {
             "questiondata": [{
-              "text": "Andrea Liu, owner of Liu Designs, an interior design company, invests $35,000 cash in her business. In exchange for her cash contribution, the corporation will issue common stock to Andrea.<br><br>Which of the following financial statement(s) will get affected by the above transaction: <a href='http://www.comprodls.com/m1.0/interaction/mcqmc'>i1</a>"
+              "text": "Using the same transaction as in Question 1 (Andrea Liu invests $35,000 cash in her business). Determine which of the following financial statement(s) will get affected : <a href='http://www.comprodls.com/m1.0/interaction/mcqmc'>i1</a>"
             }]
           },
           "raw": ""
@@ -360,6 +360,9 @@
               },
               {
                 "choiceD": "Statement of cash flows"
+              },
+              {
+                "choiceE": "None of the above"
               }
             ]
           }
