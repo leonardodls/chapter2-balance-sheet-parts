@@ -572,7 +572,7 @@
           "layout": "MCQ",
           "data": {
             "questiondata": [{
-              "text": "Using the same transaction as in Question 1 (Andrea Liu took a 3-year $35,000 loan from a financing firm). Determine which of the following financial statement(s) will get affected : <a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              "text": "Using the same transaction as in Question 1 (Andrea Liu took a 3-year $65,000 loan from a financing firm). Determine which of the following financial statement(s) will get affected : <a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
             }]
           },
           "raw": ""
@@ -607,9 +607,7 @@
       },
       "responses": {
         "i1": {
-          "correct": [
-            "choiceB"
-          ]
+          "correct": "choiceB"
         }
       },
       "learning-objectives": [],
@@ -785,9 +783,7 @@
       },
       "responses": {
         "i1": {
-          "correct": [
-            "choiceA"
-          ]
+          "correct": "choiceA"
         }
       },
       "learning-objectives": [],
@@ -963,9 +959,7 @@
       },
       "responses": {
         "i1": {
-          "correct": [
-            "choiceB"
-          ]
+          "correct": "choiceB"
         }
       },
       "learning-objectives": [],
@@ -1141,9 +1135,7 @@
       },
       "responses": {
         "i1": {
-          "correct": [
-            "choiceA"
-          ]
+          "correct":  "choiceA"
         }
       },
       "learning-objectives": [],
