@@ -1135,7 +1135,7 @@
       },
       "responses": {
         "i1": {
-          "correct":  "choiceA"
+          "correct":  "choiceB"
         }
       },
       "learning-objectives": [],
