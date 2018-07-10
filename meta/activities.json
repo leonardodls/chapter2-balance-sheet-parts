@@ -1110,10 +1110,10 @@
             "type": "MCSR",
             "MCSR": [
               {
-                "choiceA": "Statement of cash flows"
+                "choiceA": "Balance Sheet"
               },
               {
-                "choiceB": "Balance Sheet"
+                "choiceB": "Statement of cash flows"
               },
               {
                 "choiceC": "Balance Sheet and Statement of cash flows"
@@ -1135,7 +1135,7 @@
       },
       "responses": {
         "i1": {
-          "correct":  "choiceB"
+          "correct": "choiceA"
         }
       },
       "learning-objectives": [],
