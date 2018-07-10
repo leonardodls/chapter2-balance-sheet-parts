@@ -47,6 +47,12 @@
           "item-code": "Issue_Stock_To_StockHolders/Question-4",
           "item-type": "resource",
           "resource": "T1_0004"
+        },
+        {
+          "name": "Question 5",
+          "item-code": "Issue_Stock_To_StockHolders/Question-5",
+          "item-type": "resource",
+          "resource": "T1_0005"
         }
       ]
     },
@@ -500,6 +506,72 @@
       },
       "learning-objectives": [],
       "tags": ["test"]
+    },
+    "T1_0005": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "content": {
+        "instructions": [{
+          "tag": "text",
+          "text": ""
+        }],
+        "stimulus": [{
+          "tag": ""
+        }],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [{
+              "text": "Using the same transaction as in Question 1 (Andrea Liu invests $35,000 cash in her business). Determine which of the following financial statement(s) will get affected : <a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+            }]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [{
+                "choiceA": "Income Statement"
+              },
+              {
+                "choiceB": "Statement of Retained Earnings"
+              },
+              {
+                "choiceC": "Balance Sheet"
+              },
+              {
+                "choiceD": "Statement of cash flows"
+              },
+              {
+                "choiceE": "None of the above"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceA"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
     },
     "T2_0001": {
       "meta": {
