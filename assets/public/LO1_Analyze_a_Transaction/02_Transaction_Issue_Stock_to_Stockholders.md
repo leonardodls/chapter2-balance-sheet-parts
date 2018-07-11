@@ -27,5 +27,3 @@ Remember to always view this from the business’s perspective, not from the sto
 The balance sheet reflects a $20,000 increase to the asset, Cash, and to stockholders’ equity, Common Stock. The statement of cash flows, financing, is increased by $20,000.
 
 ## Test your understanding
-
-All the following transactions are in reference with each other.
