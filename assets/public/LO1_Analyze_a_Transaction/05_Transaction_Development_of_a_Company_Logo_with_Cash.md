@@ -6,14 +6,14 @@ The effect on the accounting equation is as follows:
 
 ```
 [cosmatt-widget]
- {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-106","meta":{"renderOverrides":{"widgetStyles":{"border":"none"}}}}}} 
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-106","meta":{"renderOverrides":{"widgetStyles":{"border":"none"},"dependencyAnimation":true}}}}} 
 ```
 
 Following table illustrates the impact of this transaction on the "Financial Statements" of Rose Designs:
 
 ```
 [cosmatt-widget]
- {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-111"}}} 
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-111","meta":{"renderOverrides":{"dependencyAnimation":true}}}}} 
 ```
 
 ### Step 1: Identify the accounts and account type. 

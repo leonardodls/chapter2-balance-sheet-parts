@@ -2,14 +2,14 @@ Rose Designs purchases furniture, $4,000, using the company’s credit card. The
 
 ```
 [cosmatt-widget]
- {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-107","meta":{"renderOverrides":{"widgetStyles":{"border":"none"}}}}}} 
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-107","meta":{"renderOverrides":{"widgetStyles":{"border":"none"},"dependencyAnimation":true}}}}} 
 ```
 
 Following table illustrates the impact of this transaction on the "Financial Statements" of Rose Designs:
 
 ```
 [cosmatt-widget]
- {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-112"}}} 
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-112","meta":{"renderOverrides":{"dependencyAnimation":true}}}}} 
 ```
 
 Let’s review the transaction using the steps we learned:
