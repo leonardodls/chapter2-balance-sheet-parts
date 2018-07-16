@@ -11,6 +11,8 @@ The effect on the accounting equation is as follows:
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-106","meta":{"renderOverrides":{"widgetStyles":{"border":"none"},"dependencyAnimation":true}}}}} 
 ```
 
+**Note:** *Try changing Cash and Trademark values in the green boxes of the Accounting Equation above. The impacting changes will reflect in the Balance Sheet and Statement of Cash Flow tables.*
+
 Following table illustrates the impact of this transaction on the "Financial Statements" of Rose Designs:
 
 ```

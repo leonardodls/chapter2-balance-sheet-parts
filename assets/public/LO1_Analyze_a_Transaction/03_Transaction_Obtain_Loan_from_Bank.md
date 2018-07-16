@@ -9,6 +9,8 @@ Let’s see how obtaining a loan from a bank affects Rose Designs:
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-104","meta":{"renderOverrides":{"widgetStyles":{"border":"none"},"dependencyAnimation":true}}}}} 
 ```
 
+**Note:** *Try changing Cash and Notes Payable values in the green boxes of the Accounting Equation above. The impacting changes will reflect in the Balance Sheet and Statement of Cash Flow tables.*
+
 Following table illustrates the impact of this transaction on the "Financial Statements" of Rose Designs:
 
 ```
