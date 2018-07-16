@@ -1,3 +1,5 @@
+# Transaction 3: Purchase Equipment with Cash
+
 Rose Designs buys equipment, $10,000 with cash. This transaction increases and decreases the assets of the business as follows:
 
 ```

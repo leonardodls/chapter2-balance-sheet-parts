@@ -1,3 +1,5 @@
+# Transaction 1: Issue Stock to Stockholders
+
 Sophie Rose, owner of Rose Designs, the interior design company we previously introduced, has decided to invest $20,000 cash in her business. In exchange for her cash contribution, the corporation will issue common stock to Sophie. We will use the expanded accounting equation to evaluate how this transaction affects the business:
 
 ```
