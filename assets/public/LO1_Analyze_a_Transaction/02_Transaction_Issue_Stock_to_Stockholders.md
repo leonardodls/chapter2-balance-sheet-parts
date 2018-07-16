@@ -7,7 +7,7 @@ Sophie Rose, owner of Rose Designs, the interior design company we previously in
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-103","meta":{"renderOverrides":{"widgetStyles":{"border":"none"},"dependencyAnimation":true}}}}} 
 ```
 
-***Note:** Try changing Cash and Common Stock values in the green boxes of the Accounting Equation above. The impacting changes will reflect in the Balance Sheet and Statement of Cash Flow tables.*
+**Note:** Try changing Cash and Common Stock values in the green boxes of the Accounting Equation above. The impacting changes will reflect in the Balance Sheet and Statement of Cash Flow tables.
 
 Following table illustrates the impact of this transaction on the "Financial Statements" of Rose Designs:
 
