@@ -1,4 +1,4 @@
-# Transaction 5: Purchase furniture on Account
+## Transaction 5: Purchase furniture on Account
 
 Rose Designs purchases furniture, $4,000, using the company’s credit card. The company plans to pay its credit card in full in 60 days. This transaction affects the accounting equation of Rose Designs as follows:
 

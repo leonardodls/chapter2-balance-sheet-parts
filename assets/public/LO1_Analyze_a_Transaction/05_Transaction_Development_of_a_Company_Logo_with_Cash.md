@@ -1,4 +1,4 @@
-# Transaction 4: Development of Company Logo with cash
+## Transaction 4: Development of Company Logo with cash
 
 Rose Designs spends $5,000 in the development of a company logo. A company logo is an example of an intangible asset. Intangible assets are long-term assets that convey special rights, such as the exclusive right to produce or sell an invention (patent) or book (copyright), or the symbol or image of a distinctive brand (trademark).
 
