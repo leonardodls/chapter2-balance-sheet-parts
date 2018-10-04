@@ -151,6 +151,193 @@
           }
         ],
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+      },
+      {
+        "name": "LO1 - Analyze a Transaction",
+        "item-type": "folder",
+        "item-code": "LO1_Analyze_a_Transaction",
+        "sub-type": "default",
+        "items": [
+          {
+            "name": "Introduction",
+            "item-type": "resource",
+            "resource": "RE_CH_2_SEC_1",
+            "item-code": "LO1_Analyze_a_Transaction/Introduction",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Issue Stock to Stockholders",
+            "item-type": "resource",
+            "resource": "RE_CH_2_SEC_2",
+            "item-code": "LO1_Analyze_a_Transaction/Transaction_Issue_Stock_to_Stockholders",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Issue Stock to Stockholders-Quiz",
+            "item-type": "resource",
+            "resource": "RE_CH_2_SEC_3",
+            "item-code": "LO1_Analyze_a_Transaction/Transaction_Issue_Stock_to_Stockholders_Quiz",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Obtain Loan from Bank",
+            "item-type": "resource",
+            "resource": "RE_CH_2_SEC_4",
+            "item-code": "LO1_Analyze_a_Transaction/Transaction_Obtain_Loan_from_Bank",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Obtain Loan from Bank- Quiz",
+            "item-type": "resource",
+            "resource": "RE_CH_2_SEC_5",
+            "item-code": "LO1_Analyze_a_Transaction/Transaction_Obtain_Loan_from_Bank_Quiz",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Purchase Equipment with Cash",
+            "item-type": "resource",
+            "resource": "RE_CH_2_SEC_6",
+            "item-code": "LO1_Analyze_a_Transaction/Transaction_Purchase_Equipment_with_Cash",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Purchase Equipment with Cash-Quiz",
+            "item-type": "resource",
+            "resource": "RE_CH_2_SEC_7",
+            "item-code": "LO1_Analyze_a_Transaction/Transaction_Purchase_Equipment_with_Cash",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Development of a Company Logo with Cash",
+            "item-type": "resource",
+            "resource": "RE_CH_2_SEC_8",
+            "item-code": "LO1_Analyze_a_Transaction/Transaction_Development_of_a_Company_Logo_with_Cash",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Development of a Company Logo with Cash-Quiz",
+            "item-type": "resource",
+            "resource": "RE_CH_2_SEC_9",
+            "item-code": "LO1_Analyze_a_Transaction/Transaction_Development_of_a_Company_Logo_with_Cash_Quiz",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Purchase Furniture on Account",
+            "item-type": "resource",
+            "resource": "RE_CH_2_SEC_10",
+            "item-code": "LO1_Analyze_a_Transaction/Transaction_Purchase_Furniture_on_Account",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Purchase Furniture on Account-Quiz",
+            "item-type": "resource",
+            "resource": "RE_CH_2_SEC_11",
+            "item-code": "LO1_Analyze_a_Transaction/Transaction_Purchase_Furniture_on_Account_Quiz",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Assessment",
+            "item-type": "resource",
+            "resource": "RE_CH_2_SEC_12",
+            "item-code": "LO1_Analyze_a_Transaction/Assessment",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": false
+              }
+            }
+          }
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+      },
+      {
+        "name": "LO2 - Prepare a Classified Balance Sheet",
+        "item-type": "folder",
+        "item-code": "LO2_Prepare_a_Classified_Balance_Sheet",
+        "sub-type": "default",
+        "items": [
+          {
+            "name": "Coming Soon",
+            "item-type": "resource",
+            "resource": "RE_CH_3_SEC_1",
+            "item-code": "LO2_Prepare_a_Classified_Balance_Sheet/Introduction",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          }
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
       }
     ]
   },
@@ -183,6 +370,160 @@
           "url": "LO0_Introduction/01_Introduction.md"
         },
         "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_2_SEC_1": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "LO1_Analyze_a_Transaction/01_Introduction.md"
+        },
+        "description": "",
+        "learning-objectives": ["Analyze a Transaction"]
+      },
+      "RE_CH_2_SEC_2": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "LO1_Analyze_a_Transaction/02_Transaction_Issue_Stock_to_Stockholders.md"
+        },
+        "description": "",
+        "learning-objectives": ["Analyze a Transaction"]
+      },
+      "RE_CH_2_SEC_4": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "LO1_Analyze_a_Transaction/03_Transaction_Obtain_Loan_from_Bank.md"
+        },
+        "description": "",
+        "learning-objectives": ["Analyze a Transaction"]
+      },
+      "RE_CH_2_SEC_6": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "LO1_Analyze_a_Transaction/04_Transaction_Purchase_Equipment_with_Cash.md"
+        },
+        "description": "",
+        "learning-objectives": ["Analyze a Transaction"]
+      },
+      "RE_CH_2_SEC_8": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "LO1_Analyze_a_Transaction/05_Transaction_Development_of_a_Company_Logo_with_Cash.md"
+        },
+        "description": "",
+        "learning-objectives": ["Analyze a Transaction"]
+      },
+      "RE_CH_2_SEC_10": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "LO1_Analyze_a_Transaction/06_Transaction_Purchase_Furniture_on_Account.md"
+        },
+        "description": "",
+        "learning-objectives": ["Analyze a Transaction"]
+      },
+      "RE_CH_2_SEC_12": {
+        "sub-type": "test",
+        "tags": [
+          "Test"
+        ],
+        "test": {
+          "url": "Analyze_a_Transaction_Assessment"
+        },
+        "description": "",
+        "learning-objectives": ["Analyze a Transaction"]
+      },
+      "RE_CH_3_SEC_1": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "LO2_Prepare_a_Classified_Balance_Sheet/01_Introduction.md"
+        },
+        "description": "",
+        "learning-objectives": ["Prepare a Classified Balance Sheet"]
+      },
+      "RE_CH_4_SEC_1": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "LO3_Evaluate_a_Companys_Ability_to_Pay_Its_Short_Term_Debt/01_Introduction.md"
+        },
+        "description": "",
+        "learning-objectives": ["Evaluate a Company’s Ability to Pay Its Short-Term Debt"]
+      },
+      "RE_CH_2_SEC_3": {
+        "sub-type": "test",
+        "tags": [
+          "Practice"
+        ],
+        "test": {
+          "url": "Issue_Stock_To_StockHolders"
+        },
+        "description": "L01 Analyze a Transaction - Issue Stock to Stockholders - Test your understanding",
+        "learning-objectives": []
+      },
+      "RE_CH_2_SEC_5": {
+        "sub-type": "test",
+        "tags": [
+          "Practice"
+        ],
+        "test": {
+          "url": "Obtain_Loan_from_Bank"
+        },
+        "description": "L01 Analyze a Transaction - Obtain Loan from Bank - Test your understanding",
+        "learning-objectives": []
+      },
+      "RE_CH_2_SEC_7": {
+        "sub-type": "test",
+        "tags": [
+          "Practice"
+        ],
+        "test": {
+          "url": "Purchase_Equipment_with_Cash"
+        },
+        "description": "L01 Analyze a Transaction - Purchase Equipment with Cash - Test your understanding",
+        "learning-objectives": []
+      },
+      "RE_CH_2_SEC_9": {
+        "sub-type": "test",
+        "tags": [
+          "Practice"
+        ],
+        "test": {
+          "url": "Development_of_a_Company_Logo_with_Cash"
+        },
+        "description": "L01 Analyze a Transaction - Development of a Company Logo with Cash - Test your understanding",
+        "learning-objectives": []
+      },
+      "RE_CH_2_SEC_11": {
+        "sub-type": "test",
+        "tags": [
+          "Practice"
+        ],
+        "test": {
+          "url": "Purchase_Furniture_on_Account"
+        },
+        "description": "L01 Analyze a Transaction - Purchase Furniture on Account- Test your understanding",
         "learning-objectives": []
       }
     },
