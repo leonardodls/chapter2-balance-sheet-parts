@@ -190,15 +190,6 @@
             "resource": "RE_CH_2_SEC_3",
             "item-code": "LO1_Analyze_a_Transaction/Transaction_Issue_Stock_to_Stockholders_Quiz",
             "tracking": true,
-            "embedded": [
-              {
-                "item-code": "LO1_Analyze_a_Transaction/Transaction_Issue_Stock_to_Stockholders_Quiz/emb_01",
-                "resource": "RE_CH_2_SEC_3_ET_1",
-                "item-type": "resource",
-                "name": "Emb Test 1",
-                "tracking": false
-              }
-            ],
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
@@ -225,15 +216,6 @@
             "resource": "RE_CH_2_SEC_5",
             "item-code": "LO1_Analyze_a_Transaction/Transaction_Obtain_Loan_from_Bank_Quiz",
             "tracking": true,
-            "embedded": [
-              {
-                "item-code": "LO1_Analyze_a_Transaction/Transaction_Obtain_Loan_from_Bank_Quiz/emb_01",
-                "resource": "RE_CH_2_SEC_5_ET_1",
-                "item-type": "resource",
-                "name": "Emb Test 1",
-                "tracking": false
-              }
-            ],
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
@@ -260,15 +242,6 @@
             "resource": "RE_CH_2_SEC_7",
             "item-code": "LO1_Analyze_a_Transaction/Transaction_Purchase_Equipment_with_Cash",
             "tracking": true,
-            "embedded": [
-              {
-                "item-code": "LO1_Analyze_a_Transaction/Transaction_Purchase_Equipment_with_Cash/emb_01",
-                "resource": "RE_CH_2_SEC_7_ET_1",
-                "item-type": "resource",
-                "name": "Emb Test 1",
-                "tracking": false
-              }
-            ],
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
@@ -295,15 +268,6 @@
             "resource": "RE_CH_2_SEC_9",
             "item-code": "LO1_Analyze_a_Transaction/Transaction_Development_of_a_Company_Logo_with_Cash_Quiz",
             "tracking": true,
-            "embedded": [
-              {
-                "item-code": "LO1_Analyze_a_Transaction/Transaction_Development_of_a_Company_Logo_with_Cash_Quiz/emb_01",
-                "resource": "RE_CH_2_SEC_9_ET_1",
-                "item-type": "resource",
-                "name": "Emb Test 1",
-                "tracking": false
-              }
-            ],
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
@@ -327,18 +291,9 @@
           {
             "name": "Purchase Furniture on Account-Quiz",
             "item-type": "resource",
-            "resource": "RE_CH_2_SEC_10",
+            "resource": "RE_CH_2_SEC_11",
             "item-code": "LO1_Analyze_a_Transaction/Transaction_Purchase_Furniture_on_Account_Quiz",
             "tracking": true,
-            "embedded": [
-              {
-                "item-code": "LO1_Analyze_a_Transaction/Transaction_Purchase_Furniture_on_Account_quiz/emb_01",
-                "resource": "RE_CH_2_SEC_11_ET_1",
-                "item-type": "resource",
-                "name": "Emb Test 1",
-                "tracking": false
-              }
-            ],
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
@@ -450,7 +405,7 @@
         "description": "",
         "learning-objectives": ["Analyze a Transaction"]
       },
-      "RE_CH_2_SEC_3": {
+      "RE_CH_2_SEC_2": {
         "sub-type": "md",
         "tags": [
           "Reading"
@@ -538,7 +493,7 @@
         "description": "",
         "learning-objectives": ["Evaluate a Company’s Ability to Pay Its Short-Term Debt"]
       },
-      "RE_CH_2_SEC_3_ET_1": {
+      "RE_CH_2_SEC_3": {
         "sub-type": "test",
         "tags": [
           "Practice"
@@ -549,7 +504,7 @@
         "description": "L01 Analyze a Transaction - Issue Stock to Stockholders - Test your understanding",
         "learning-objectives": []
       },
-      "RE_CH_2_SEC_5_ET_1": {
+      "RE_CH_2_SEC_5": {
         "sub-type": "test",
         "tags": [
           "Practice"
@@ -560,7 +515,7 @@
         "description": "L01 Analyze a Transaction - Obtain Loan from Bank - Test your understanding",
         "learning-objectives": []
       },
-      "RE_CH_2_SEC_7_ET_1": {
+      "RE_CH_2_SEC_7": {
         "sub-type": "test",
         "tags": [
           "Practice"
@@ -571,7 +526,7 @@
         "description": "L01 Analyze a Transaction - Purchase Equipment with Cash - Test your understanding",
         "learning-objectives": []
       },
-      "RE_CH_2_SEC_9_ET_1": {
+      "RE_CH_2_SEC_9": {
         "sub-type": "test",
         "tags": [
           "Practice"
@@ -582,7 +537,7 @@
         "description": "L01 Analyze a Transaction - Development of a Company Logo with Cash - Test your understanding",
         "learning-objectives": []
       },
-      "RE_CH_2_SEC_11_ET_1": {
+      "RE_CH_2_SEC_11": {
         "sub-type": "test",
         "tags": [
           "Practice"
