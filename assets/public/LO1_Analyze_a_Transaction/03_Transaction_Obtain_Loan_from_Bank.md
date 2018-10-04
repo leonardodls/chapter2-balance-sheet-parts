@@ -6,7 +6,7 @@ Let’s see how obtaining a loan from a bank affects Rose Designs:
 
 ```
 [cosmatt-widget]
- {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-228","meta":{"renderOverrides":{"widgetStyles":{"border":"none"},"dependencyAnimation":true}}}}} 
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-104","meta":{"renderOverrides":{"widgetStyles":{"border":"none"},"dependencyAnimation":true}}}}} 
 ```
 
 **Note:** *Try changing Cash and Notes Payable values in the green boxes of the Accounting Equation above. The impacting changes will reflect in the Balance Sheet and Statement of Cash Flow tables.*
