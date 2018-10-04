@@ -460,17 +460,6 @@
         "description": "",
         "learning-objectives": ["Prepare a Classified Balance Sheet"]
       },
-      "RE_CH_4_SEC_1": {
-        "sub-type": "md",
-        "tags": [
-          "Reading"
-        ],
-        "md": {
-          "url": "LO3_Evaluate_a_Companys_Ability_to_Pay_Its_Short_Term_Debt/01_Introduction.md"
-        },
-        "description": "",
-        "learning-objectives": ["Evaluate a Company’s Ability to Pay Its Short-Term Debt"]
-      },
       "RE_CH_2_SEC_3": {
         "sub-type": "test",
         "tags": [
