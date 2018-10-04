@@ -1,158 +1,34 @@
 {
   "items": [
     {
-      "name": "Analyze_a_Transaction_Assessment",
-      "item-code": "Analyze_a_Transaction_Assessment",
+      "name": "Chapter 6 - Section 4 - MCQ Question 1",
+      "item-code": "ACTIVITY_CH_6_SEC_4_ET_1",
       "item-type": "folder",
       "sub-type": "test",
-      "items": [{
-        "name": "Question 1",
-        "item-code": "Analyze_a_Transaction_Assessment/Question-1",
-        "item-type": "resource",
-        "resource": "A1_0001"
-      },
-      {
-        "name": "Question 2",
-        "item-code": "Analyze_a_Transaction_Assessment/Question-2",
-        "item-type": "resource",
-        "resource": "A1_0002"
-      }
-    ]
-    },
-    {
-      "name": "Issue_Stock_To_StockHolders",
-      "item-code": "Issue_Stock_To_StockHolders",
-      "item-type": "folder",
-      "sub-type": "test",
-      "items": [{
+      "items": [
+        {
           "name": "Question 1",
-          "item-code": "Issue_Stock_To_StockHolders/Question-1",
+          "item-code": "ACTIVITY_CH_6_SEC_4_ET_1/ET_1_1",
           "item-type": "resource",
-          "resource": "T1_0001"
+          "resource": "RE_CH_6_SEC_4_ET_1_1"
         },
         {
           "name": "Question 2",
-          "item-code": "Issue_Stock_To_StockHolders/Question-2",
+          "item-code": "ACTIVITY_CH_6_SEC_4_ET_1/ET_1_2",
           "item-type": "resource",
-          "resource": "T1_0002"
+          "resource": "RE_CH_6_SEC_4_ET_1_2"
         },
         {
           "name": "Question 3",
-          "item-code": "Issue_Stock_To_StockHolders/Question-3",
+          "item-code": "ACTIVITY_CH_6_SEC_4_ET_1/ET_1_3",
           "item-type": "resource",
-          "resource": "T1_0003"
-        },
-        {
-          "name": "Question 4",
-          "item-code": "Issue_Stock_To_StockHolders/Question-4",
-          "item-type": "resource",
-          "resource": "T1_0004"
-        }
-      ]
-    },
-    {
-      "name": "Obtain_Loan_from_Bank",
-      "item-code": "Obtain_Loan_from_Bank",
-      "item-type": "folder",
-      "sub-type": "test",
-      "items": [{
-          "name": "Question 1",
-          "item-code": "Obtain_Loan_from_Bank/Question-1",
-          "item-type": "resource",
-          "resource": "T2_0001"
-        },
-        {
-          "name": "Question 2",
-          "item-code": "Obtain_Loan_from_Bank/Question-2",
-          "item-type": "resource",
-          "resource": "T2_0002"
-        },
-        {
-          "name": "Question 3",
-          "item-code": "Obtain_Loan_from_Bank/Question-3",
-          "item-type": "resource",
-          "resource": "T2_0003"
-        }
-      ]
-    },
-    {
-      "name": "Purchase_Equipment_with_Cash",
-      "item-code": "Purchase_Equipment_with_Cash",
-      "item-type": "folder",
-      "sub-type": "test",
-      "items": [{
-          "name": "Question 1",
-          "item-code": "Purchase_Equipment_with_Cash/Question-1",
-          "item-type": "resource",
-          "resource": "T3_0001"
-        },
-        {
-          "name": "Question 2",
-          "item-code": "Purchase_Equipment_with_Cash/Question-2",
-          "item-type": "resource",
-          "resource": "T3_0002"
-        },
-        {
-          "name": "Question 3",
-          "item-code": "Purchase_Equipment_with_Cash/Question-3",
-          "item-type": "resource",
-          "resource": "T3_0003"
-        }
-      ]
-    },
-    {
-      "name": "Development_of_a_Company_Logo_with_Cash",
-      "item-code": "Development_of_a_Company_Logo_with_Cash",
-      "item-type": "folder",
-      "sub-type": "test",
-      "items": [{
-          "name": "Question 1",
-          "item-code": "Development_of_a_Company_Logo_with_Cash/Question-1",
-          "item-type": "resource",
-          "resource": "T4_0001"
-        },
-        {
-          "name": "Question 2",
-          "item-code": "Development_of_a_Company_Logo_with_Cash/Question-2",
-          "item-type": "resource",
-          "resource": "T4_0002"
-        },
-        {
-          "name": "Question 3",
-          "item-code": "Development_of_a_Company_Logo_with_Cash/Question-3",
-          "item-type": "resource",
-          "resource": "T4_0003"
-        }
-      ]
-    },
-    {
-      "name": "Purchase_Furniture_on_Account",
-      "item-code": "Purchase_Furniture_on_Account",
-      "item-type": "folder",
-      "sub-type": "test",
-      "items": [{
-          "name": "Question 1",
-          "item-code": "Purchase_Furniture_on_Account/Question-1",
-          "item-type": "resource",
-          "resource": "T5_0001"
-        },
-        {
-          "name": "Question 2",
-          "item-code": "Purchase_Furniture_on_Account/Question-2",
-          "item-type": "resource",
-          "resource": "T5_0002"
-        },
-        {
-          "name": "Question 3",
-          "item-code": "Purchase_Furniture_on_Account/Question-3",
-          "item-type": "resource",
-          "resource": "T5_0003"
+          "resource": "RE_CH_6_SEC_4_ET_1_3"
         }
       ]
     }
   ],
   "resources": {
-    "A1_0001": {
+    "RE_CH_6_SEC_4_ET_1_1": {
       "meta": {
         "type": "LEONARDODLS",
         "score": {
@@ -164,7 +40,7 @@
       "app-data": {
         "type": "spreadsheet-DLSleonardo",
         "options": {
-          "itemId": "leo-leonardo-demo-127"
+          "itemId": "leo-leonardo-demo-216"
         }
       },
       "content": {
@@ -208,119 +84,7 @@
       "learning-objectives": [],
       "tags": ["test"]
     },
-    "A1_0002": {
-      "meta": {
-        "type": "LEONARDODLS",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "app-data": {
-        "type": "spreadsheet-DLSleonardo",
-        "options": {
-          "itemId": "leo-leonardo-demo-128"
-        }
-      },
-      "content": {
-        "instructions": [{
-          "tag": "html",
-          "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
-        }],
-        "stimulus": [{
-          "tag": "",
-          "image": ""
-        }],
-        "canvas": {
-          "layout": "LEONARDODLS",
-          "data": {
-            "questiondata": [{
-              "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
-            }]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "configData"
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "Perfect. You got it correct",
-          "incorrect": "Sorry, Wrong response.",
-          "empty": "You did not enter anything."
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "60",
-          "ignorewhitespace": true
-        }
-      },
-      "learning-objectives": [],
-      "tags": ["test"]
-    },
-    "T1_0001": {
-      "meta": {
-        "type": "LEONARDODLS",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "app-data": {
-        "type": "spreadsheet-DLSleonardo",
-        "options": {
-          "itemId": "leo-leonardo-demo-116"
-        }
-      },
-      "content": {
-        "instructions": [{
-          "tag": "html",
-          "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
-        }],
-        "stimulus": [{
-          "tag": "",
-          "image": ""
-        }],
-        "canvas": {
-          "layout": "LEONARDODLS",
-          "data": {
-            "questiondata": [{
-              "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
-            }]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "configData"
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "Perfect. You got it correct",
-          "incorrect": "Sorry, Wrong response.",
-          "empty": "You did not enter anything."
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "60",
-          "ignorewhitespace": true
-        }
-      },
-      "learning-objectives": [],
-      "tags": ["test"]
-    },
-    "T1_0002": {
+    "RE_CH_6_SEC_4_ET_1_2": {
       "meta": {
         "type": "MCSR",
         "score": {
@@ -330,36 +94,44 @@
         }
       },
       "content": {
-        "instructions": [{
-          "tag": "text",
-          "text": ""
-        }],
-        "stimulus": [{
-          "tag": ""
-        }],
+        "instructions": [
+          {
+            "tag": "text",
+            "text": ""
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
         "canvas": {
           "layout": "MCQ",
           "data": {
-            "questiondata": [{
-              "text": "Referring to the transaction given in Question 1 (Andrea Liu invests $35,000 cash in her business and receives Common Stocks in exchange), determine which of the following financial statement(s) will get affected : <a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
-            }]
+            "questiondata": [
+              {
+                "text":
+                  "Suppose Le Napoleon believes it can charge 10% more for its pastries at the proposed Bloomington bakery, that it had originally thought. Assuming all other inputs and decision variables remained constant, what would be the effect on the model:</p><a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
           },
           "raw": ""
         },
         "interactions": {
           "i1": {
             "type": "MCSR",
-            "MCSR": [{
-                "choiceA": "Income Statement and Statement of Retained Earnings"
+            "MCSR": [
+              {
+                "choiceA": "Revenue, net profit and NPV would decrease"
               },
               {
-                "choiceB": "Balance Sheet and Statement of Retained Earnings"
+                "choiceB": "Revenue and net profit would increase but NPV would decrease"
               },
               {
-                "choiceC": "Balance Sheet and Statement of cash flows"
+                "choiceC": "Revenue, net profit and NPV would increase"
               },
               {
-                "choiceD": "None of the above"
+                "choiceD": "Revenue and NPV increase but net profit decreases"
               }
             ]
           }
@@ -379,179 +151,9 @@
         }
       },
       "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "T1_0003": {
-      "meta": {
-        "type": "LEONARDODLS",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "app-data": {
-        "type": "spreadsheet-DLSleonardo",
-        "options": {
-          "itemId": "leo-leonardo-demo-117"
-        }
-      },
-      "content": {
-        "instructions": [{
-          "tag": "html",
-          "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
-        }],
-        "stimulus": [{
-          "tag": "",
-          "image": ""
-        }],
-        "canvas": {
-          "layout": "LEONARDODLS",
-          "data": {
-            "questiondata": [{
-              "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
-            }]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "configData"
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "Perfect. You got it correct",
-          "incorrect": "Sorry, Wrong response.",
-          "empty": "You did not enter anything."
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "60",
-          "ignorewhitespace": true
-        }
-      },
-      "learning-objectives": [],
       "tags": ["test"]
     },
-    "T1_0004": {
-      "meta": {
-        "type": "LEONARDODLS",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "app-data": {
-        "type": "spreadsheet-DLSleonardo",
-        "options": {
-          "itemId": "leo-leonardo-demo-118"
-        }
-      },
-      "content": {
-        "instructions": [{
-          "tag": "html",
-          "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
-        }],
-        "stimulus": [{
-          "tag": "",
-          "image": ""
-        }],
-        "canvas": {
-          "layout": "LEONARDODLS",
-          "data": {
-            "questiondata": [{
-              "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
-            }]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "configData"
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "Perfect. You got it correct",
-          "incorrect": "Sorry, Wrong response.",
-          "empty": "You did not enter anything."
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "60",
-          "ignorewhitespace": true
-        }
-      },
-      "learning-objectives": [],
-      "tags": ["test"]
-    },
-    "T2_0001": {
-      "meta": {
-        "type": "LEONARDODLS",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "app-data": {
-        "type": "spreadsheet-DLSleonardo",
-        "options": {
-          "itemId": "leo-leonardo-demo-119"
-        }
-      },
-      "content": {
-        "instructions": [{
-          "tag": "html",
-          "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
-        }],
-        "stimulus": [{
-          "tag": "",
-          "image": ""
-        }],
-        "canvas": {
-          "layout": "LEONARDODLS",
-          "data": {
-            "questiondata": [{
-              "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
-            }]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "configData"
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "Perfect. You got it correct",
-          "incorrect": "Sorry, Wrong response.",
-          "empty": "You did not enter anything."
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "60",
-          "ignorewhitespace": true
-        }
-      },
-      "learning-objectives": [],
-      "tags": ["test"]
-    },
-    "T2_0002": {
+    "RE_CH_6_SEC_4_ET_1_3": {
       "meta": {
         "type": "MCSR",
         "score": {
@@ -561,195 +163,26 @@
         }
       },
       "content": {
-        "instructions": [{
-          "tag": "text",
-          "text": ""
-        }],
-        "stimulus": [{
-          "tag": ""
-        }],
+        "instructions": [
+          {
+            "tag": "text",
+            "text": ""
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
         "canvas": {
           "layout": "MCQ",
           "data": {
-            "questiondata": [{
-              "text": "Referring to the transaction given in Question 1 (Andrea Liu takes a $65,000 loan), determine which of the following financial statements will get affected : <a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
-            }]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "MCSR",
-            "MCSR": [
+            "questiondata": [
               {
-                "choiceA": "Income Statement and Balance Sheet"
-              },
-              {
-                "choiceB": "Balance Sheet and Statement of cash flows"
-              },
-              {
-                "choiceC": "Income Statement and Statement of Retained Earnings"
-              },
-              {
-                "choiceD": "None of the above"
+                "text":
+                  "Le Napoleon has hired a new manager, Charlene Wu. Charlene is trying to build a model to help her determine how to save for retirement. Which of the following would be an output of Charlene’s saving model:</p><a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
               }
             ]
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "",
-          "incorrect": "",
-          "empty": ""
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "choiceB"
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "T2_0003": {
-      "meta": {
-        "type": "LEONARDODLS",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "app-data": {
-        "type": "spreadsheet-DLSleonardo",
-        "options": {
-          "itemId": "leo-leonardo-demo-120"
-        }
-      },
-      "content": {
-        "instructions": [{
-          "tag": "html",
-          "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
-        }],
-        "stimulus": [{
-          "tag": "",
-          "image": ""
-        }],
-        "canvas": {
-          "layout": "LEONARDODLS",
-          "data": {
-            "questiondata": [{
-              "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
-            }]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "configData"
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "Perfect. You got it correct",
-          "incorrect": "Sorry, Wrong response.",
-          "empty": "You did not enter anything."
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "60",
-          "ignorewhitespace": true
-        }
-      },
-      "learning-objectives": [],
-      "tags": ["test"]
-    },
-    "T3_0001": {
-      "meta": {
-        "type": "LEONARDODLS",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "app-data": {
-        "type": "spreadsheet-DLSleonardo",
-        "options": {
-          "itemId": "leo-leonardo-demo-121"
-        }
-      },
-      "content": {
-        "instructions": [{
-          "tag": "html",
-          "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
-        }],
-        "stimulus": [{
-          "tag": "",
-          "image": ""
-        }],
-        "canvas": {
-          "layout": "LEONARDODLS",
-          "data": {
-            "questiondata": [{
-              "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
-            }]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "configData"
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "Perfect. You got it correct",
-          "incorrect": "Sorry, Wrong response.",
-          "empty": "You did not enter anything."
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "60",
-          "ignorewhitespace": true
-        }
-      },
-      "learning-objectives": [],
-      "tags": ["test"]
-    },
-    "T3_0002": {
-      "meta": {
-        "type": "MCSR",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "content": {
-        "instructions": [{
-          "tag": "text",
-          "text": ""
-        }],
-        "stimulus": [{
-          "tag": ""
-        }],
-        "canvas": {
-          "layout": "MCQ",
-          "data": {
-            "questiondata": [{
-              "text": "Referring to the transaction given in Question 1 (Liu Designs buys equipment of worth $15,000 with the cash available), determine which of the following financial statements will get affected : <a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
-            }]
           },
           "raw": ""
         },
@@ -758,16 +191,16 @@
             "type": "MCSR",
             "MCSR": [
               {
-                "choiceA": "Balance Sheet and Statement of cash flows"
+                "choiceA": "Amount of Charlene’s salary she should save each month"
               },
               {
-                "choiceB": "Income Statement and Balance Sheet"
+                "choiceB": "Charlene’s monthly salary"
               },
               {
-                "choiceC": "Income Statement and Statement of Retained Earnings"
+                "choiceC": "Amount Charlene receives as annual bonus"
               },
               {
-                "choiceD": "None of the above"
+                "choiceD": "Expected annual growth rate of Charlene’s salary"
               }
             ]
           }
@@ -784,416 +217,6 @@
       "responses": {
         "i1": {
           "correct": "choiceA"
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "T3_0003": {
-      "meta": {
-        "type": "LEONARDODLS",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "app-data": {
-        "type": "spreadsheet-DLSleonardo",
-        "options": {
-          "itemId": "leo-leonardo-demo-122"
-        }
-      },
-      "content": {
-        "instructions": [{
-          "tag": "html",
-          "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
-        }],
-        "stimulus": [{
-          "tag": "",
-          "image": ""
-        }],
-        "canvas": {
-          "layout": "LEONARDODLS",
-          "data": {
-            "questiondata": [{
-              "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
-            }]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "configData"
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "Perfect. You got it correct",
-          "incorrect": "Sorry, Wrong response.",
-          "empty": "You did not enter anything."
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "60",
-          "ignorewhitespace": true
-        }
-      },
-      "learning-objectives": [],
-      "tags": ["test"]
-    },
-    "T4_0001": {
-      "meta": {
-        "type": "LEONARDODLS",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "app-data": {
-        "type": "spreadsheet-DLSleonardo",
-        "options": {
-          "itemId": "leo-leonardo-demo-123"
-        }
-      },
-      "content": {
-        "instructions": [{
-          "tag": "html",
-          "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
-        }],
-        "stimulus": [{
-          "tag": "",
-          "image": ""
-        }],
-        "canvas": {
-          "layout": "LEONARDODLS",
-          "data": {
-            "questiondata": [{
-              "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
-            }]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "configData"
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "Perfect. You got it correct",
-          "incorrect": "Sorry, Wrong response.",
-          "empty": "You did not enter anything."
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "60",
-          "ignorewhitespace": true
-        }
-      },
-      "learning-objectives": [],
-      "tags": ["test"]
-    },
-    "T4_0002": {
-      "meta": {
-        "type": "MCSR",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "content": {
-        "instructions": [{
-          "tag": "text",
-          "text": ""
-        }],
-        "stimulus": [{
-          "tag": ""
-        }],
-        "canvas": {
-          "layout": "MCQ",
-          "data": {
-            "questiondata": [{
-              "text": "Referring to the transaction given in Question 1 (Liu Designs spends $7,000 on Company Logo), determine which of the following financial statements will get affected : <a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
-            }]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "MCSR",
-            "MCSR": [
-              {
-                "choiceA": "Balance Sheet and Statement of Retained Earnings"
-              },
-              {
-                "choiceB": "Statement of cash flows and Balance Sheet"
-              },
-              {
-                "choiceC": "Income Statement and Statement of Retained Earnings"
-              },
-              {
-                "choiceD": "None of the above"
-              }
-            ]
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "",
-          "incorrect": "",
-          "empty": ""
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "choiceB"
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "T4_0003": {
-      "meta": {
-        "type": "LEONARDODLS",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "app-data": {
-        "type": "spreadsheet-DLSleonardo",
-        "options": {
-          "itemId": "leo-leonardo-demo-124"
-        }
-      },
-      "content": {
-        "instructions": [{
-          "tag": "html",
-          "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
-        }],
-        "stimulus": [{
-          "tag": "",
-          "image": ""
-        }],
-        "canvas": {
-          "layout": "LEONARDODLS",
-          "data": {
-            "questiondata": [{
-              "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
-            }]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "configData"
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "Perfect. You got it correct",
-          "incorrect": "Sorry, Wrong response.",
-          "empty": "You did not enter anything."
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "60",
-          "ignorewhitespace": true
-        }
-      },
-      "learning-objectives": [],
-      "tags": ["test"]
-    },
-    "T5_0001": {
-      "meta": {
-        "type": "LEONARDODLS",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "app-data": {
-        "type": "spreadsheet-DLSleonardo",
-        "options": {
-          "itemId": "leo-leonardo-demo-125"
-        }
-      },
-      "content": {
-        "instructions": [{
-          "tag": "html",
-          "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
-        }],
-        "stimulus": [{
-          "tag": "",
-          "image": ""
-        }],
-        "canvas": {
-          "layout": "LEONARDODLS",
-          "data": {
-            "questiondata": [{
-              "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
-            }]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "configData"
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "Perfect. You got it correct",
-          "incorrect": "Sorry, Wrong response.",
-          "empty": "You did not enter anything."
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "60",
-          "ignorewhitespace": true
-        }
-      },
-      "learning-objectives": [],
-      "tags": ["test"]
-    },
-    "T5_0002": {
-      "meta": {
-        "type": "MCSR",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "content": {
-        "instructions": [{
-          "tag": "text",
-          "text": ""
-        }],
-        "stimulus": [{
-          "tag": ""
-        }],
-        "canvas": {
-          "layout": "MCQ",
-          "data": {
-            "questiondata": [{
-              "text": "Referring to the transaction given in Question 1 (Liu Designs purchases furniture of worth $5,000 using the credit card), determine which of the following financial statement(s) will get affected : <a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
-            }]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "MCSR",
-            "MCSR": [
-              {
-                "choiceA": "Balance Sheet"
-              },
-              {
-                "choiceB": "Statement of cash flows"
-              },
-              {
-                "choiceC": "Balance Sheet and Statement of cash flows"
-              },
-              {
-                "choiceD": "None of the above"
-              }
-            ]
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "",
-          "incorrect": "",
-          "empty": ""
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "choiceA"
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "T5_0003": {
-      "meta": {
-        "type": "LEONARDODLS",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "app-data": {
-        "type": "spreadsheet-DLSleonardo",
-        "options": {
-          "itemId": "leo-leonardo-demo-126"
-        }
-      },
-      "content": {
-        "instructions": [{
-          "tag": "html",
-          "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
-        }],
-        "stimulus": [{
-          "tag": "",
-          "image": ""
-        }],
-        "canvas": {
-          "layout": "LEONARDODLS",
-          "data": {
-            "questiondata": [{
-              "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
-            }]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "configData"
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "Perfect. You got it correct",
-          "incorrect": "Sorry, Wrong response.",
-          "empty": "You did not enter anything."
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "60",
-          "ignorewhitespace": true
         }
       },
       "learning-objectives": [],
