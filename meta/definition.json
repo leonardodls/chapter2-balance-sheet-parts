@@ -185,7 +185,7 @@
             }
           },
           {
-            "name": "Issue Stock to Stockholders-Quiz",
+            "name": "Quiz: Issue Stock to Stockholders",
             "item-type": "resource",
             "resource": "RE_CH_2_SEC_3",
             "item-code": "LO1_Analyze_a_Transaction/Transaction_Issue_Stock_to_Stockholders_Quiz",
@@ -211,7 +211,7 @@
             }
           },
           {
-            "name": "Obtain Loan from Bank- Quiz",
+            "name": "Quiz: Obtain Loan from Bank",
             "item-type": "resource",
             "resource": "RE_CH_2_SEC_5",
             "item-code": "LO1_Analyze_a_Transaction/Transaction_Obtain_Loan_from_Bank_Quiz",
@@ -237,7 +237,7 @@
             }
           },
           {
-            "name": "Purchase Equipment with Cash-Quiz",
+            "name": "Quiz: Purchase Equipment with Cash",
             "item-type": "resource",
             "resource": "RE_CH_2_SEC_7",
             "item-code": "LO1_Analyze_a_Transaction/Transaction_Purchase_Equipment_with_Cash",
@@ -263,7 +263,7 @@
             }
           },
           {
-            "name": "Development of a Company Logo with Cash-Quiz",
+            "name": "Quiz: Development of a Company Logo with Cash",
             "item-type": "resource",
             "resource": "RE_CH_2_SEC_9",
             "item-code": "LO1_Analyze_a_Transaction/Transaction_Development_of_a_Company_Logo_with_Cash_Quiz",
@@ -289,7 +289,7 @@
             }
           },
           {
-            "name": "Purchase Furniture on Account-Quiz",
+            "name": "Quiz: Purchase Furniture on Account",
             "item-type": "resource",
             "resource": "RE_CH_2_SEC_11",
             "item-code": "LO1_Analyze_a_Transaction/Transaction_Purchase_Furniture_on_Account_Quiz",
