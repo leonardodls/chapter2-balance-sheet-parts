@@ -99,5 +99,248 @@
       }
     }
   },
-  "items": {  }
+  "items": {
+    "model": {
+      "introduction": [
+        {
+          "name": "About the Course",
+          "item-type": "resource",
+          "resource": "RE_About_Course",
+          "item-code": "introduction/about_the_course",
+          "tracking": false
+        },
+        {
+          "name": "Foreword",
+          "item-type": "resource",
+          "resource": "RE_FOREWORD",
+          "item-code": "about/foreword",
+          "tracking": false
+       },
+       {
+          "name": "Title",
+          "item-type": "folder",         
+          "item-code": "about/title",
+          "title": "Principles of Accounting",
+          "publisher": {
+            "name": "Compro Technologies",                
+            "copyright": "©2018 Compro Technologies All Rights Reserved"
+          },
+          "tracking": false
+       }
+      ]       
+    },
+    "default": [
+      {
+        "name": "Introduction",
+        "item-type": "folder",
+        "item-code": "LO0_Introduction",
+        "sub-type": "default",
+        "items": [
+          {
+            "name": "Coming Soon",
+            "item-type": "resource",
+            "resource": "RE_CH_1_SEC_1",
+            "item-code": "LO0_Introduction/Introduction",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          }
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+      }
+    ]
+  },
+  "resources": {
+    "generic": {
+      "RE_About_Course": {
+        "sub-type": "md",
+        "tags": [],
+        "md": {
+          "url": "Introduction/AboutCourse.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+     "RE_FOREWORD": {
+        "sub-type": "md",
+        "tags": [],
+        "md": {
+          "url": "Foreword/Foreword.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_1_SEC_1": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "LO0_Introduction/01_Introduction.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_2_SEC_1": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "LO1_Analyze_a_Transaction/01_Introduction.md"
+        },
+        "description": "",
+        "learning-objectives": ["Analyze a Transaction"]
+      },
+      "RE_CH_2_SEC_2": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "LO1_Analyze_a_Transaction/02_Transaction_Issue_Stock_to_Stockholders.md"
+        },
+        "description": "",
+        "learning-objectives": ["Analyze a Transaction"]
+      },
+      "RE_CH_2_SEC_3": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "LO1_Analyze_a_Transaction/03_Transaction_Obtain_Loan_from_Bank.md"
+        },
+        "description": "",
+        "learning-objectives": ["Analyze a Transaction"]
+      },
+      "RE_CH_2_SEC_4": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "LO1_Analyze_a_Transaction/04_Transaction_Purchase_Equipment_with_Cash.md"
+        },
+        "description": "",
+        "learning-objectives": ["Analyze a Transaction"]
+      },
+      "RE_CH_2_SEC_5": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "LO1_Analyze_a_Transaction/05_Transaction_Development_of_a_Company_Logo_with_Cash.md"
+        },
+        "description": "",
+        "learning-objectives": ["Analyze a Transaction"]
+      },
+      "RE_CH_2_SEC_6": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "LO1_Analyze_a_Transaction/06_Transaction_Purchase_Furniture_on_Account.md"
+        },
+        "description": "",
+        "learning-objectives": ["Analyze a Transaction"]
+      },
+      "RE_CH_2_SEC_7": {
+        "sub-type": "test",
+        "tags": [
+          "Test"
+        ],
+        "test": {
+          "url": "Analyze_a_Transaction_Assessment"
+        },
+        "description": "",
+        "learning-objectives": ["Analyze a Transaction"]
+      },
+      "RE_CH_3_SEC_1": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "LO2_Prepare_a_Classified_Balance_Sheet/01_Introduction.md"
+        },
+        "description": "",
+        "learning-objectives": ["Prepare a Classified Balance Sheet"]
+      },
+      "RE_CH_4_SEC_1": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "LO3_Evaluate_a_Companys_Ability_to_Pay_Its_Short_Term_Debt/01_Introduction.md"
+        },
+        "description": "",
+        "learning-objectives": ["Evaluate a Company’s Ability to Pay Its Short-Term Debt"]
+      },
+      "RE_CH_2_SEC_2_ET_1": {
+        "sub-type": "test",
+        "tags": [
+          "Practice"
+        ],
+        "test": {
+          "url": "Issue_Stock_To_StockHolders"
+        },
+        "description": "L01 Analyze a Transaction - Issue Stock to Stockholders - Test your understanding",
+        "learning-objectives": []
+      },
+      "RE_CH_2_SEC_3_ET_1": {
+        "sub-type": "test",
+        "tags": [
+          "Practice"
+        ],
+        "test": {
+          "url": "Obtain_Loan_from_Bank"
+        },
+        "description": "L01 Analyze a Transaction - Obtain Loan from Bank - Test your understanding",
+        "learning-objectives": []
+      },
+      "RE_CH_2_SEC_4_ET_1": {
+        "sub-type": "test",
+        "tags": [
+          "Practice"
+        ],
+        "test": {
+          "url": "Purchase_Equipment_with_Cash"
+        },
+        "description": "L01 Analyze a Transaction - Purchase Equipment with Cash - Test your understanding",
+        "learning-objectives": []
+      },
+      "RE_CH_2_SEC_5_ET_1": {
+        "sub-type": "test",
+        "tags": [
+          "Practice"
+        ],
+        "test": {
+          "url": "Development_of_a_Company_Logo_with_Cash"
+        },
+        "description": "L01 Analyze a Transaction - Development of a Company Logo with Cash - Test your understanding",
+        "learning-objectives": []
+      },
+      "RE_CH_2_SEC_6_ET_1": {
+        "sub-type": "test",
+        "tags": [
+          "Practice"
+        ],
+        "test": {
+          "url": "Purchase_Furniture_on_Account"
+        },
+        "description": "L01 Analyze a Transaction - Purchase Furniture on Account- Test your understanding",
+        "learning-objectives": []
+      }
+    },
+    "test": {},
+    "ebook": {}
+  }
 }
