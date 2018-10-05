@@ -7,7 +7,7 @@ Rose Designs purchases furniture, $4,000, using the company’s credit card. The
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-107","meta":{"renderOverrides":{"widgetStyles":{"border":"none"},"dependencyAnimation":true}}}}} 
 ```
 
-**Note:** *Try changing Furniture and Accounts Payable values in the green boxes of the Accounting Equation above. The impacting changes will reflect in the Balance Sheet table.*
+**Note:** *Try changing Furniture and Accounts Payable values in the blue boxes of the Accounting Equation above. The impacting changes will reflect in the Balance Sheet table.*
 
 Following table illustrates the impact of this transaction on the "Financial Statements" of Rose Designs:
 
