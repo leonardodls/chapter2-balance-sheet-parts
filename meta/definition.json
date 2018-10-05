@@ -463,7 +463,7 @@
       "RE_CH_2_SEC_3": {
         "sub-type": "test",
         "tags": [
-          "Practice"
+          "Test"
         ],
         "test": {
           "url": "Issue_Stock_To_StockHolders"
@@ -474,7 +474,7 @@
       "RE_CH_2_SEC_5": {
         "sub-type": "test",
         "tags": [
-          "Practice"
+          "Test"
         ],
         "test": {
           "url": "Obtain_Loan_from_Bank"
@@ -485,7 +485,7 @@
       "RE_CH_2_SEC_7": {
         "sub-type": "test",
         "tags": [
-          "Practice"
+          "Test"
         ],
         "test": {
           "url": "Purchase_Equipment_with_Cash"
@@ -496,7 +496,7 @@
       "RE_CH_2_SEC_9": {
         "sub-type": "test",
         "tags": [
-          "Practice"
+          "Test"
         ],
         "test": {
           "url": "Development_of_a_Company_Logo_with_Cash"
@@ -507,7 +507,7 @@
       "RE_CH_2_SEC_11": {
         "sub-type": "test",
         "tags": [
-          "Practice"
+          "Test"
         ],
         "test": {
           "url": "Purchase_Furniture_on_Account"
