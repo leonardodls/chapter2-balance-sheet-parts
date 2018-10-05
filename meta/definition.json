@@ -240,7 +240,7 @@
             "name": "Quiz: Purchase Equipment with Cash",
             "item-type": "resource",
             "resource": "RE_CH_2_SEC_7",
-            "item-code": "LO1_Analyze_a_Transaction/Transaction_Purchase_Equipment_with_Cash",
+            "item-code": "LO1_Analyze_a_Transaction/Transaction_Purchase_Equipment_with_Cash_Quiz",
             "tracking": true,
             "attribs": {
               "mark-as-complete": {
